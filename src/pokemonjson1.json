@@ -1,0 +1,4492 @@
+[
+  {
+    "pokemon_species_id": 1,
+    "name_german": "Bisasam",
+    "name_english": "Bulbasaur"
+  },
+  {
+    "pokemon_species_id": 2,
+    "name_german": "Bisaknosp",
+    "name_english": "Ivysaur"
+  },
+  {
+    "pokemon_species_id": 3,
+    "name_german": "Bisaflor",
+    "name_english": "Venusaur"
+  },
+  {
+    "pokemon_species_id": 4,
+    "name_german": "Glumanda",
+    "name_english": "Charmander"
+  },
+  {
+    "pokemon_species_id": 5,
+    "name_german": "Glutexo",
+    "name_english": "Charmeleon"
+  },
+  {
+    "pokemon_species_id": 6,
+    "name_german": "Glurak",
+    "name_english": "Charizard"
+  },
+  {
+    "pokemon_species_id": 7,
+    "name_german": "Schiggy",
+    "name_english": "Squirtle"
+  },
+  {
+    "pokemon_species_id": 8,
+    "name_german": "Schillok",
+    "name_english": "Wartortle"
+  },
+  {
+    "pokemon_species_id": 9,
+    "name_german": "Turtok",
+    "name_english": "Blastoise"
+  },
+  {
+    "pokemon_species_id": 10,
+    "name_german": "Raupy",
+    "name_english": "Caterpie"
+  },
+  {
+    "pokemon_species_id": 11,
+    "name_german": "Safcon",
+    "name_english": "Metapod"
+  },
+  {
+    "pokemon_species_id": 12,
+    "name_german": "Smettbo",
+    "name_english": "Butterfree"
+  },
+  {
+    "pokemon_species_id": 13,
+    "name_german": "Hornliu",
+    "name_english": "Weedle"
+  },
+  {
+    "pokemon_species_id": 14,
+    "name_german": "Kokuna",
+    "name_english": "Kakuna"
+  },
+  {
+    "pokemon_species_id": 15,
+    "name_german": "Bibor",
+    "name_english": "Beedrill"
+  },
+  {
+    "pokemon_species_id": 16,
+    "name_german": "Taubsi",
+    "name_english": "Pidgey"
+  },
+  {
+    "pokemon_species_id": 17,
+    "name_german": "Tauboga",
+    "name_english": "Pidgeotto"
+  },
+  {
+    "pokemon_species_id": 18,
+    "name_german": "Tauboss",
+    "name_english": "Pidgeot"
+  },
+  {
+    "pokemon_species_id": 19,
+    "name_german": "Rattfratz",
+    "name_english": "Rattata"
+  },
+  {
+    "pokemon_species_id": 20,
+    "name_german": "Rattikarl",
+    "name_english": "Raticate"
+  },
+  {
+    "pokemon_species_id": 21,
+    "name_german": "Habitak",
+    "name_english": "Spearow"
+  },
+  {
+    "pokemon_species_id": 22,
+    "name_german": "Ibitak",
+    "name_english": "Fearow"
+  },
+  {
+    "pokemon_species_id": 23,
+    "name_german": "Rettan",
+    "name_english": "Ekans"
+  },
+  {
+    "pokemon_species_id": 24,
+    "name_german": "Arbok",
+    "name_english": "Arbok"
+  },
+  {
+    "pokemon_species_id": 25,
+    "name_german": "Pikachu",
+    "name_english": "Pikachu"
+  },
+  {
+    "pokemon_species_id": 26,
+    "name_german": "Raichu",
+    "name_english": "Raichu"
+  },
+  {
+    "pokemon_species_id": 27,
+    "name_german": "Sandan",
+    "name_english": "Sandshrew"
+  },
+  {
+    "pokemon_species_id": 28,
+    "name_german": "Sandamer",
+    "name_english": "Sandslash"
+  },
+  {
+    "pokemon_species_id": 29,
+    "name_german": "Nidoran♀",
+    "name_english": "Nidoran♀"
+  },
+  {
+    "pokemon_species_id": 30,
+    "name_german": "Nidorina",
+    "name_english": "Nidorina"
+  },
+  {
+    "pokemon_species_id": 31,
+    "name_german": "Nidoqueen",
+    "name_english": "Nidoqueen"
+  },
+  {
+    "pokemon_species_id": 32,
+    "name_german": "Nidoran♂",
+    "name_english": "Nidoran♂"
+  },
+  {
+    "pokemon_species_id": 33,
+    "name_german": "Nidorino",
+    "name_english": "Nidorino"
+  },
+  {
+    "pokemon_species_id": 34,
+    "name_german": "Nidoking",
+    "name_english": "Nidoking"
+  },
+  {
+    "pokemon_species_id": 35,
+    "name_german": "Piepi",
+    "name_english": "Clefairy"
+  },
+  {
+    "pokemon_species_id": 36,
+    "name_german": "Pixi",
+    "name_english": "Clefable"
+  },
+  {
+    "pokemon_species_id": 37,
+    "name_german": "Vulpix",
+    "name_english": "Vulpix"
+  },
+  {
+    "pokemon_species_id": 38,
+    "name_german": "Vulnona",
+    "name_english": "Ninetales"
+  },
+  {
+    "pokemon_species_id": 39,
+    "name_german": "Pummeluff",
+    "name_english": "Jigglypuff"
+  },
+  {
+    "pokemon_species_id": 40,
+    "name_german": "Knuddeluff",
+    "name_english": "Wigglytuff"
+  },
+  {
+    "pokemon_species_id": 41,
+    "name_german": "Zubat",
+    "name_english": "Zubat"
+  },
+  {
+    "pokemon_species_id": 42,
+    "name_german": "Golbat",
+    "name_english": "Golbat"
+  },
+  {
+    "pokemon_species_id": 43,
+    "name_german": "Myrapla",
+    "name_english": "Oddish"
+  },
+  {
+    "pokemon_species_id": 44,
+    "name_german": "Duflor",
+    "name_english": "Gloom"
+  },
+  {
+    "pokemon_species_id": 45,
+    "name_german": "Giflor",
+    "name_english": "Vileplume"
+  },
+  {
+    "pokemon_species_id": 46,
+    "name_german": "Paras",
+    "name_english": "Paras"
+  },
+  {
+    "pokemon_species_id": 47,
+    "name_german": "Parasek",
+    "name_english": "Parasect"
+  },
+  {
+    "pokemon_species_id": 48,
+    "name_german": "Bluzuk",
+    "name_english": "Venonat"
+  },
+  {
+    "pokemon_species_id": 49,
+    "name_german": "Omot",
+    "name_english": "Venomoth"
+  },
+  {
+    "pokemon_species_id": 50,
+    "name_german": "Digda",
+    "name_english": "Diglett"
+  },
+  {
+    "pokemon_species_id": 51,
+    "name_german": "Digdri",
+    "name_english": "Dugtrio"
+  },
+  {
+    "pokemon_species_id": 52,
+    "name_german": "Mauzi",
+    "name_english": "Meowth"
+  },
+  {
+    "pokemon_species_id": 53,
+    "name_german": "Snobilikat",
+    "name_english": "Persian"
+  },
+  {
+    "pokemon_species_id": 54,
+    "name_german": "Enton",
+    "name_english": "Psyduck"
+  },
+  {
+    "pokemon_species_id": 55,
+    "name_german": "Entoron",
+    "name_english": "Golduck"
+  },
+  {
+    "pokemon_species_id": 56,
+    "name_german": "Menki",
+    "name_english": "Mankey"
+  },
+  {
+    "pokemon_species_id": 57,
+    "name_german": "Rasaff",
+    "name_english": "Primeape"
+  },
+  {
+    "pokemon_species_id": 58,
+    "name_german": "Fukano",
+    "name_english": "Growlithe"
+  },
+  {
+    "pokemon_species_id": 59,
+    "name_german": "Arkani",
+    "name_english": "Arcanine"
+  },
+  {
+    "pokemon_species_id": 60,
+    "name_german": "Quapsel",
+    "name_english": "Poliwag"
+  },
+  {
+    "pokemon_species_id": 61,
+    "name_german": "Quaputzi",
+    "name_english": "Poliwhirl"
+  },
+  {
+    "pokemon_species_id": 62,
+    "name_german": "Quappo",
+    "name_english": "Poliwrath"
+  },
+  {
+    "pokemon_species_id": 63,
+    "name_german": "Abra",
+    "name_english": "Abra"
+  },
+  {
+    "pokemon_species_id": 64,
+    "name_german": "Kadabra",
+    "name_english": "Kadabra"
+  },
+  {
+    "pokemon_species_id": 65,
+    "name_german": "Simsala",
+    "name_english": "Alakazam"
+  },
+  {
+    "pokemon_species_id": 66,
+    "name_german": "Machollo",
+    "name_english": "Machop"
+  },
+  {
+    "pokemon_species_id": 67,
+    "name_german": "Maschock",
+    "name_english": "Machoke"
+  },
+  {
+    "pokemon_species_id": 68,
+    "name_german": "Machomei",
+    "name_english": "Machamp"
+  },
+  {
+    "pokemon_species_id": 69,
+    "name_german": "Knofensa",
+    "name_english": "Bellsprout"
+  },
+  {
+    "pokemon_species_id": 70,
+    "name_german": "Ultrigaria",
+    "name_english": "Weepinbell"
+  },
+  {
+    "pokemon_species_id": 71,
+    "name_german": "Sarzenia",
+    "name_english": "Victreebel"
+  },
+  {
+    "pokemon_species_id": 72,
+    "name_german": "Tentacha",
+    "name_english": "Tentacool"
+  },
+  {
+    "pokemon_species_id": 73,
+    "name_german": "Tentoxa",
+    "name_english": "Tentacruel"
+  },
+  {
+    "pokemon_species_id": 74,
+    "name_german": "Kleinstein",
+    "name_english": "Geodude"
+  },
+  {
+    "pokemon_species_id": 75,
+    "name_german": "Georok",
+    "name_english": "Graveler"
+  },
+  {
+    "pokemon_species_id": 76,
+    "name_german": "Geowaz",
+    "name_english": "Golem"
+  },
+  {
+    "pokemon_species_id": 77,
+    "name_german": "Ponita",
+    "name_english": "Ponyta"
+  },
+  {
+    "pokemon_species_id": 78,
+    "name_german": "Gallopa",
+    "name_english": "Rapidash"
+  },
+  {
+    "pokemon_species_id": 79,
+    "name_german": "Flegmon",
+    "name_english": "Slowpoke"
+  },
+  {
+    "pokemon_species_id": 80,
+    "name_german": "Lahmus",
+    "name_english": "Slowbro"
+  },
+  {
+    "pokemon_species_id": 81,
+    "name_german": "Magnetilo",
+    "name_english": "Magnemite"
+  },
+  {
+    "pokemon_species_id": 82,
+    "name_german": "Magneton",
+    "name_english": "Magneton"
+  },
+  {
+    "pokemon_species_id": 83,
+    "name_german": "Porenta",
+    "name_english": "Farfetch'd"
+  },
+  {
+    "pokemon_species_id": 84,
+    "name_german": "Dodu",
+    "name_english": "Doduo"
+  },
+  {
+    "pokemon_species_id": 85,
+    "name_german": "Dodri",
+    "name_english": "Dodrio"
+  },
+  {
+    "pokemon_species_id": 86,
+    "name_german": "Jurob",
+    "name_english": "Seel"
+  },
+  {
+    "pokemon_species_id": 87,
+    "name_german": "Jugong",
+    "name_english": "Dewgong"
+  },
+  {
+    "pokemon_species_id": 88,
+    "name_german": "Sleima",
+    "name_english": "Grimer"
+  },
+  {
+    "pokemon_species_id": 89,
+    "name_german": "Sleimok",
+    "name_english": "Muk"
+  },
+  {
+    "pokemon_species_id": 90,
+    "name_german": "Muschas",
+    "name_english": "Shellder"
+  },
+  {
+    "pokemon_species_id": 91,
+    "name_german": "Austos",
+    "name_english": "Cloyster"
+  },
+  {
+    "pokemon_species_id": 92,
+    "name_german": "Nebulak",
+    "name_english": "Gastly"
+  },
+  {
+    "pokemon_species_id": 93,
+    "name_german": "Alpollo",
+    "name_english": "Haunter"
+  },
+  {
+    "pokemon_species_id": 94,
+    "name_german": "Gengar",
+    "name_english": "Gengar"
+  },
+  {
+    "pokemon_species_id": 95,
+    "name_german": "Onix",
+    "name_english": "Onix"
+  },
+  {
+    "pokemon_species_id": 96,
+    "name_german": "Traumato",
+    "name_english": "Drowzee"
+  },
+  {
+    "pokemon_species_id": 97,
+    "name_german": "Hypno",
+    "name_english": "Hypno"
+  },
+  {
+    "pokemon_species_id": 98,
+    "name_german": "Krabby",
+    "name_english": "Krabby"
+  },
+  {
+    "pokemon_species_id": 99,
+    "name_german": "Kingler",
+    "name_english": "Kingler"
+  },
+  {
+    "pokemon_species_id": 100,
+    "name_german": "Voltobal",
+    "name_english": "Voltorb"
+  },
+  {
+    "pokemon_species_id": 101,
+    "name_german": "Lektrobal",
+    "name_english": "Electrode"
+  },
+  {
+    "pokemon_species_id": 102,
+    "name_german": "Owei",
+    "name_english": "Exeggcute"
+  },
+  {
+    "pokemon_species_id": 103,
+    "name_german": "Kokowei",
+    "name_english": "Exeggutor"
+  },
+  {
+    "pokemon_species_id": 104,
+    "name_german": "Tragosso",
+    "name_english": "Cubone"
+  },
+  {
+    "pokemon_species_id": 105,
+    "name_german": "Knogga",
+    "name_english": "Marowak"
+  },
+  {
+    "pokemon_species_id": 106,
+    "name_german": "Kicklee",
+    "name_english": "Hitmonlee"
+  },
+  {
+    "pokemon_species_id": 107,
+    "name_german": "Nockchan",
+    "name_english": "Hitmonchan"
+  },
+  {
+    "pokemon_species_id": 108,
+    "name_german": "Schlurp",
+    "name_english": "Lickitung"
+  },
+  {
+    "pokemon_species_id": 109,
+    "name_german": "Smogon",
+    "name_english": "Koffing"
+  },
+  {
+    "pokemon_species_id": 110,
+    "name_german": "Smogmog",
+    "name_english": "Weezing"
+  },
+  {
+    "pokemon_species_id": 111,
+    "name_german": "Rihorn",
+    "name_english": "Rhyhorn"
+  },
+  {
+    "pokemon_species_id": 112,
+    "name_german": "Rizeros",
+    "name_english": "Rhydon"
+  },
+  {
+    "pokemon_species_id": 113,
+    "name_german": "Chaneira",
+    "name_english": "Chansey"
+  },
+  {
+    "pokemon_species_id": 114,
+    "name_german": "Tangela",
+    "name_english": "Tangela"
+  },
+  {
+    "pokemon_species_id": 115,
+    "name_german": "Kangama",
+    "name_english": "Kangaskhan"
+  },
+  {
+    "pokemon_species_id": 116,
+    "name_german": "Seeper",
+    "name_english": "Horsea"
+  },
+  {
+    "pokemon_species_id": 117,
+    "name_german": "Seemon",
+    "name_english": "Seadra"
+  },
+  {
+    "pokemon_species_id": 118,
+    "name_german": "Goldini",
+    "name_english": "Goldeen"
+  },
+  {
+    "pokemon_species_id": 119,
+    "name_german": "Golking",
+    "name_english": "Seaking"
+  },
+  {
+    "pokemon_species_id": 120,
+    "name_german": "Sterndu",
+    "name_english": "Staryu"
+  },
+  {
+    "pokemon_species_id": 121,
+    "name_german": "Starmie",
+    "name_english": "Starmie"
+  },
+  {
+    "pokemon_species_id": 122,
+    "name_german": "Pantimos",
+    "name_english": "Mr. Mime"
+  },
+  {
+    "pokemon_species_id": 123,
+    "name_german": "Sichlor",
+    "name_english": "Scyther"
+  },
+  {
+    "pokemon_species_id": 124,
+    "name_german": "Rossana",
+    "name_english": "Jynx"
+  },
+  {
+    "pokemon_species_id": 125,
+    "name_german": "Elektek",
+    "name_english": "Electabuzz"
+  },
+  {
+    "pokemon_species_id": 126,
+    "name_german": "Magmar",
+    "name_english": "Magmar"
+  },
+  {
+    "pokemon_species_id": 127,
+    "name_german": "Pinsir",
+    "name_english": "Pinsir"
+  },
+  {
+    "pokemon_species_id": 128,
+    "name_german": "Tauros",
+    "name_english": "Tauros"
+  },
+  {
+    "pokemon_species_id": 129,
+    "name_german": "Karpador",
+    "name_english": "Magikarp"
+  },
+  {
+    "pokemon_species_id": 130,
+    "name_german": "Garados",
+    "name_english": "Gyarados"
+  },
+  {
+    "pokemon_species_id": 131,
+    "name_german": "Lapras",
+    "name_english": "Lapras"
+  },
+  {
+    "pokemon_species_id": 132,
+    "name_german": "Ditto",
+    "name_english": "Ditto"
+  },
+  {
+    "pokemon_species_id": 133,
+    "name_german": "Evoli",
+    "name_english": "Eevee"
+  },
+  {
+    "pokemon_species_id": 134,
+    "name_german": "Aquana",
+    "name_english": "Vaporeon"
+  },
+  {
+    "pokemon_species_id": 135,
+    "name_german": "Blitza",
+    "name_english": "Jolteon"
+  },
+  {
+    "pokemon_species_id": 136,
+    "name_german": "Flamara",
+    "name_english": "Flareon"
+  },
+  {
+    "pokemon_species_id": 137,
+    "name_german": "Porygon",
+    "name_english": "Porygon"
+  },
+  {
+    "pokemon_species_id": 138,
+    "name_german": "Amonitas",
+    "name_english": "Omanyte"
+  },
+  {
+    "pokemon_species_id": 139,
+    "name_german": "Amoroso",
+    "name_english": "Omastar"
+  },
+  {
+    "pokemon_species_id": 140,
+    "name_german": "Kabuto",
+    "name_english": "Kabuto"
+  },
+  {
+    "pokemon_species_id": 141,
+    "name_german": "Kabutops",
+    "name_english": "Kabutops"
+  },
+  {
+    "pokemon_species_id": 142,
+    "name_german": "Aerodactyl",
+    "name_english": "Aerodactyl"
+  },
+  {
+    "pokemon_species_id": 143,
+    "name_german": "Relaxo",
+    "name_english": "Snorlax"
+  },
+  {
+    "pokemon_species_id": 144,
+    "name_german": "Arktos",
+    "name_english": "Articuno"
+  },
+  {
+    "pokemon_species_id": 145,
+    "name_german": "Zapdos",
+    "name_english": "Zapdos"
+  },
+  {
+    "pokemon_species_id": 146,
+    "name_german": "Lavados",
+    "name_english": "Moltres"
+  },
+  {
+    "pokemon_species_id": 147,
+    "name_german": "Dratini",
+    "name_english": "Dratini"
+  },
+  {
+    "pokemon_species_id": 148,
+    "name_german": "Dragonir",
+    "name_english": "Dragonair"
+  },
+  {
+    "pokemon_species_id": 149,
+    "name_german": "Dragoran",
+    "name_english": "Dragonite"
+  },
+  {
+    "pokemon_species_id": 150,
+    "name_german": "Mewtu",
+    "name_english": "Mewtwo"
+  },
+  {
+    "pokemon_species_id": 151,
+    "name_german": "Mew",
+    "name_english": "Mew"
+  },
+  {
+    "pokemon_species_id": 152,
+    "name_german": "Endivie",
+    "name_english": "Chikorita"
+  },
+  {
+    "pokemon_species_id": 153,
+    "name_german": "Lorblatt",
+    "name_english": "Bayleef"
+  },
+  {
+    "pokemon_species_id": 154,
+    "name_german": "Meganie",
+    "name_english": "Meganium"
+  },
+  {
+    "pokemon_species_id": 155,
+    "name_german": "Feurigel",
+    "name_english": "Cyndaquil"
+  },
+  {
+    "pokemon_species_id": 156,
+    "name_german": "Igelavar",
+    "name_english": "Quilava"
+  },
+  {
+    "pokemon_species_id": 157,
+    "name_german": "Tornupto",
+    "name_english": "Typhlosion"
+  },
+  {
+    "pokemon_species_id": 158,
+    "name_german": "Karnimani",
+    "name_english": "Totodile"
+  },
+  {
+    "pokemon_species_id": 159,
+    "name_german": "Tyracroc",
+    "name_english": "Croconaw"
+  },
+  {
+    "pokemon_species_id": 160,
+    "name_german": "Impergator",
+    "name_english": "Feraligatr"
+  },
+  {
+    "pokemon_species_id": 161,
+    "name_german": "Wiesor",
+    "name_english": "Sentret"
+  },
+  {
+    "pokemon_species_id": 162,
+    "name_german": "Wiesenior",
+    "name_english": "Furret"
+  },
+  {
+    "pokemon_species_id": 163,
+    "name_german": "Hoothoot",
+    "name_english": "Hoothoot"
+  },
+  {
+    "pokemon_species_id": 164,
+    "name_german": "Noctuh",
+    "name_english": "Noctowl"
+  },
+  {
+    "pokemon_species_id": 165,
+    "name_german": "Ledyba",
+    "name_english": "Ledyba"
+  },
+  {
+    "pokemon_species_id": 166,
+    "name_german": "Ledian",
+    "name_english": "Ledian"
+  },
+  {
+    "pokemon_species_id": 167,
+    "name_german": "Webarak",
+    "name_english": "Spinarak"
+  },
+  {
+    "pokemon_species_id": 168,
+    "name_german": "Ariados",
+    "name_english": "Ariados"
+  },
+  {
+    "pokemon_species_id": 169,
+    "name_german": "Iksbat",
+    "name_english": "Crobat"
+  },
+  {
+    "pokemon_species_id": 170,
+    "name_german": "Lampi",
+    "name_english": "Chinchou"
+  },
+  {
+    "pokemon_species_id": 171,
+    "name_german": "Lanturn",
+    "name_english": "Lanturn"
+  },
+  {
+    "pokemon_species_id": 172,
+    "name_german": "Pichu",
+    "name_english": "Pichu"
+  },
+  {
+    "pokemon_species_id": 173,
+    "name_german": "Pii",
+    "name_english": "Cleffa"
+  },
+  {
+    "pokemon_species_id": 174,
+    "name_german": "Fluffeluff",
+    "name_english": "Igglybuff"
+  },
+  {
+    "pokemon_species_id": 175,
+    "name_german": "Togepi",
+    "name_english": "Togepi"
+  },
+  {
+    "pokemon_species_id": 176,
+    "name_german": "Togetic",
+    "name_english": "Togetic"
+  },
+  {
+    "pokemon_species_id": 177,
+    "name_german": "Natu",
+    "name_english": "Natu"
+  },
+  {
+    "pokemon_species_id": 178,
+    "name_german": "Xatu",
+    "name_english": "Xatu"
+  },
+  {
+    "pokemon_species_id": 179,
+    "name_german": "Voltilamm",
+    "name_english": "Mareep"
+  },
+  {
+    "pokemon_species_id": 180,
+    "name_german": "Waaty",
+    "name_english": "Flaaffy"
+  },
+  {
+    "pokemon_species_id": 181,
+    "name_german": "Ampharos",
+    "name_english": "Ampharos"
+  },
+  {
+    "pokemon_species_id": 182,
+    "name_german": "Blubella",
+    "name_english": "Bellossom"
+  },
+  {
+    "pokemon_species_id": 183,
+    "name_german": "Marill",
+    "name_english": "Marill"
+  },
+  {
+    "pokemon_species_id": 184,
+    "name_german": "Azumarill",
+    "name_english": "Azumarill"
+  },
+  {
+    "pokemon_species_id": 185,
+    "name_german": "Mogelbaum",
+    "name_english": "Sudowoodo"
+  },
+  {
+    "pokemon_species_id": 186,
+    "name_german": "Quaxo",
+    "name_english": "Politoed"
+  },
+  {
+    "pokemon_species_id": 187,
+    "name_german": "Hoppspross",
+    "name_english": "Hoppip"
+  },
+  {
+    "pokemon_species_id": 188,
+    "name_german": "Hubelupf",
+    "name_english": "Skiploom"
+  },
+  {
+    "pokemon_species_id": 189,
+    "name_german": "Papungha",
+    "name_english": "Jumpluff"
+  },
+  {
+    "pokemon_species_id": 190,
+    "name_german": "Griffel",
+    "name_english": "Aipom"
+  },
+  {
+    "pokemon_species_id": 191,
+    "name_german": "Sonnkern",
+    "name_english": "Sunkern"
+  },
+  {
+    "pokemon_species_id": 192,
+    "name_german": "Sonnflora",
+    "name_english": "Sunflora"
+  },
+  {
+    "pokemon_species_id": 193,
+    "name_german": "Yanma",
+    "name_english": "Yanma"
+  },
+  {
+    "pokemon_species_id": 194,
+    "name_german": "Felino",
+    "name_english": "Wooper"
+  },
+  {
+    "pokemon_species_id": 195,
+    "name_german": "Morlord",
+    "name_english": "Quagsire"
+  },
+  {
+    "pokemon_species_id": 196,
+    "name_german": "Psiana",
+    "name_english": "Espeon"
+  },
+  {
+    "pokemon_species_id": 197,
+    "name_german": "Nachtara",
+    "name_english": "Umbreon"
+  },
+  {
+    "pokemon_species_id": 198,
+    "name_german": "Kramurx",
+    "name_english": "Murkrow"
+  },
+  {
+    "pokemon_species_id": 199,
+    "name_german": "Laschoking",
+    "name_english": "Slowking"
+  },
+  {
+    "pokemon_species_id": 200,
+    "name_german": "Traunfugil",
+    "name_english": "Misdreavus"
+  },
+  {
+    "pokemon_species_id": 201,
+    "name_german": "Icognito",
+    "name_english": "Unown"
+  },
+  {
+    "pokemon_species_id": 202,
+    "name_german": "Woingenau",
+    "name_english": "Wobbuffet"
+  },
+  {
+    "pokemon_species_id": 203,
+    "name_german": "Girafarig",
+    "name_english": "Girafarig"
+  },
+  {
+    "pokemon_species_id": 204,
+    "name_german": "Tannza",
+    "name_english": "Pineco"
+  },
+  {
+    "pokemon_species_id": 205,
+    "name_german": "Forstellka",
+    "name_english": "Forretress"
+  },
+  {
+    "pokemon_species_id": 206,
+    "name_german": "Dummisel",
+    "name_english": "Dunsparce"
+  },
+  {
+    "pokemon_species_id": 207,
+    "name_german": "Skorgla",
+    "name_english": "Gligar"
+  },
+  {
+    "pokemon_species_id": 208,
+    "name_german": "Stahlos",
+    "name_english": "Steelix"
+  },
+  {
+    "pokemon_species_id": 209,
+    "name_german": "Snubbull",
+    "name_english": "Snubbull"
+  },
+  {
+    "pokemon_species_id": 210,
+    "name_german": "Granbull",
+    "name_english": "Granbull"
+  },
+  {
+    "pokemon_species_id": 211,
+    "name_german": "Baldorfish",
+    "name_english": "Qwilfish"
+  },
+  {
+    "pokemon_species_id": 212,
+    "name_german": "Scherox",
+    "name_english": "Scizor"
+  },
+  {
+    "pokemon_species_id": 213,
+    "name_german": "Pottrott",
+    "name_english": "Shuckle"
+  },
+  {
+    "pokemon_species_id": 214,
+    "name_german": "Skaraborn",
+    "name_english": "Heracross"
+  },
+  {
+    "pokemon_species_id": 215,
+    "name_german": "Sniebel",
+    "name_english": "Sneasel"
+  },
+  {
+    "pokemon_species_id": 216,
+    "name_german": "Teddiursa",
+    "name_english": "Teddiursa"
+  },
+  {
+    "pokemon_species_id": 217,
+    "name_german": "Ursaring",
+    "name_english": "Ursaring"
+  },
+  {
+    "pokemon_species_id": 218,
+    "name_german": "Schneckmag",
+    "name_english": "Slugma"
+  },
+  {
+    "pokemon_species_id": 219,
+    "name_german": "Magcargo",
+    "name_english": "Magcargo"
+  },
+  {
+    "pokemon_species_id": 220,
+    "name_german": "Quiekel",
+    "name_english": "Swinub"
+  },
+  {
+    "pokemon_species_id": 221,
+    "name_german": "Keifel",
+    "name_english": "Piloswine"
+  },
+  {
+    "pokemon_species_id": 222,
+    "name_german": "Corasonn",
+    "name_english": "Corsola"
+  },
+  {
+    "pokemon_species_id": 223,
+    "name_german": "Remoraid",
+    "name_english": "Remoraid"
+  },
+  {
+    "pokemon_species_id": 224,
+    "name_german": "Octillery",
+    "name_english": "Octillery"
+  },
+  {
+    "pokemon_species_id": 225,
+    "name_german": "Botogel",
+    "name_english": "Delibird"
+  },
+  {
+    "pokemon_species_id": 226,
+    "name_german": "Mantax",
+    "name_english": "Mantine"
+  },
+  {
+    "pokemon_species_id": 227,
+    "name_german": "Panzaeron",
+    "name_english": "Skarmory"
+  },
+  {
+    "pokemon_species_id": 228,
+    "name_german": "Hunduster",
+    "name_english": "Houndour"
+  },
+  {
+    "pokemon_species_id": 229,
+    "name_german": "Hundemon",
+    "name_english": "Houndoom"
+  },
+  {
+    "pokemon_species_id": 230,
+    "name_german": "Seedraking",
+    "name_english": "Kingdra"
+  },
+  {
+    "pokemon_species_id": 231,
+    "name_german": "Phanpy",
+    "name_english": "Phanpy"
+  },
+  {
+    "pokemon_species_id": 232,
+    "name_german": "Donphan",
+    "name_english": "Donphan"
+  },
+  {
+    "pokemon_species_id": 233,
+    "name_german": "Porygon2",
+    "name_english": "Porygon2"
+  },
+  {
+    "pokemon_species_id": 234,
+    "name_german": "Damhirplex",
+    "name_english": "Stantler"
+  },
+  {
+    "pokemon_species_id": 235,
+    "name_german": "Farbeagle",
+    "name_english": "Smeargle"
+  },
+  {
+    "pokemon_species_id": 236,
+    "name_german": "Rabauz",
+    "name_english": "Tyrogue"
+  },
+  {
+    "pokemon_species_id": 237,
+    "name_german": "Kapoera",
+    "name_english": "Hitmontop"
+  },
+  {
+    "pokemon_species_id": 238,
+    "name_german": "Kussilla",
+    "name_english": "Smoochum"
+  },
+  {
+    "pokemon_species_id": 239,
+    "name_german": "Elekid",
+    "name_english": "Elekid"
+  },
+  {
+    "pokemon_species_id": 240,
+    "name_german": "Magby",
+    "name_english": "Magby"
+  },
+  {
+    "pokemon_species_id": 241,
+    "name_german": "Miltank",
+    "name_english": "Miltank"
+  },
+  {
+    "pokemon_species_id": 242,
+    "name_german": "Heiteira",
+    "name_english": "Blissey"
+  },
+  {
+    "pokemon_species_id": 243,
+    "name_german": "Raikou",
+    "name_english": "Raikou"
+  },
+  {
+    "pokemon_species_id": 244,
+    "name_german": "Entei",
+    "name_english": "Entei"
+  },
+  {
+    "pokemon_species_id": 245,
+    "name_german": "Suicune",
+    "name_english": "Suicune"
+  },
+  {
+    "pokemon_species_id": 246,
+    "name_german": "Larvitar",
+    "name_english": "Larvitar"
+  },
+  {
+    "pokemon_species_id": 247,
+    "name_german": "Pupitar",
+    "name_english": "Pupitar"
+  },
+  {
+    "pokemon_species_id": 248,
+    "name_german": "Despotar",
+    "name_english": "Tyranitar"
+  },
+  {
+    "pokemon_species_id": 249,
+    "name_german": "Lugia",
+    "name_english": "Lugia"
+  },
+  {
+    "pokemon_species_id": 250,
+    "name_german": "Ho-Oh",
+    "name_english": "Ho-Oh"
+  },
+  {
+    "pokemon_species_id": 251,
+    "name_german": "Celebi",
+    "name_english": "Celebi"
+  },
+  {
+    "pokemon_species_id": 252,
+    "name_german": "Geckarbor",
+    "name_english": "Treecko"
+  },
+  {
+    "pokemon_species_id": 253,
+    "name_german": "Reptain",
+    "name_english": "Grovyle"
+  },
+  {
+    "pokemon_species_id": 254,
+    "name_german": "Gewaldro",
+    "name_english": "Sceptile"
+  },
+  {
+    "pokemon_species_id": 255,
+    "name_german": "Flemmli",
+    "name_english": "Torchic"
+  },
+  {
+    "pokemon_species_id": 256,
+    "name_german": "Jungglut",
+    "name_english": "Combusken"
+  },
+  {
+    "pokemon_species_id": 257,
+    "name_german": "Lohgock",
+    "name_english": "Blaziken"
+  },
+  {
+    "pokemon_species_id": 258,
+    "name_german": "Hydropi",
+    "name_english": "Mudkip"
+  },
+  {
+    "pokemon_species_id": 259,
+    "name_german": "Moorabbel",
+    "name_english": "Marshtomp"
+  },
+  {
+    "pokemon_species_id": 260,
+    "name_german": "Sumpex",
+    "name_english": "Swampert"
+  },
+  {
+    "pokemon_species_id": 261,
+    "name_german": "Fiffyen",
+    "name_english": "Poochyena"
+  },
+  {
+    "pokemon_species_id": 262,
+    "name_german": "Magnayen",
+    "name_english": "Mightyena"
+  },
+  {
+    "pokemon_species_id": 263,
+    "name_german": "Zigzachs",
+    "name_english": "Zigzagoon"
+  },
+  {
+    "pokemon_species_id": 264,
+    "name_german": "Geradaks",
+    "name_english": "Linoone"
+  },
+  {
+    "pokemon_species_id": 265,
+    "name_german": "Waumpel",
+    "name_english": "Wurmple"
+  },
+  {
+    "pokemon_species_id": 266,
+    "name_german": "Schaloko",
+    "name_english": "Silcoon"
+  },
+  {
+    "pokemon_species_id": 267,
+    "name_german": "Papinella",
+    "name_english": "Beautifly"
+  },
+  {
+    "pokemon_species_id": 268,
+    "name_german": "Panekon",
+    "name_english": "Cascoon"
+  },
+  {
+    "pokemon_species_id": 269,
+    "name_german": "Pudox",
+    "name_english": "Dustox"
+  },
+  {
+    "pokemon_species_id": 270,
+    "name_german": "Loturzel",
+    "name_english": "Lotad"
+  },
+  {
+    "pokemon_species_id": 271,
+    "name_german": "Lombrero",
+    "name_english": "Lombre"
+  },
+  {
+    "pokemon_species_id": 272,
+    "name_german": "Kappalores",
+    "name_english": "Ludicolo"
+  },
+  {
+    "pokemon_species_id": 273,
+    "name_german": "Samurzel",
+    "name_english": "Seedot"
+  },
+  {
+    "pokemon_species_id": 274,
+    "name_german": "Blanas",
+    "name_english": "Nuzleaf"
+  },
+  {
+    "pokemon_species_id": 275,
+    "name_german": "Tengulist",
+    "name_english": "Shiftry"
+  },
+  {
+    "pokemon_species_id": 276,
+    "name_german": "Schwalbini",
+    "name_english": "Taillow"
+  },
+  {
+    "pokemon_species_id": 277,
+    "name_german": "Schwalboss",
+    "name_english": "Swellow"
+  },
+  {
+    "pokemon_species_id": 278,
+    "name_german": "Wingull",
+    "name_english": "Wingull"
+  },
+  {
+    "pokemon_species_id": 279,
+    "name_german": "Pelipper",
+    "name_english": "Pelipper"
+  },
+  {
+    "pokemon_species_id": 280,
+    "name_german": "Trasla",
+    "name_english": "Ralts"
+  },
+  {
+    "pokemon_species_id": 281,
+    "name_german": "Kirlia",
+    "name_english": "Kirlia"
+  },
+  {
+    "pokemon_species_id": 282,
+    "name_german": "Guardevoir",
+    "name_english": "Gardevoir"
+  },
+  {
+    "pokemon_species_id": 283,
+    "name_german": "Gehweiher",
+    "name_english": "Surskit"
+  },
+  {
+    "pokemon_species_id": 284,
+    "name_german": "Maskeregen",
+    "name_english": "Masquerain"
+  },
+  {
+    "pokemon_species_id": 285,
+    "name_german": "Knilz",
+    "name_english": "Shroomish"
+  },
+  {
+    "pokemon_species_id": 286,
+    "name_german": "Kapilz",
+    "name_english": "Breloom"
+  },
+  {
+    "pokemon_species_id": 287,
+    "name_german": "Bummelz",
+    "name_english": "Slakoth"
+  },
+  {
+    "pokemon_species_id": 288,
+    "name_german": "Muntier",
+    "name_english": "Vigoroth"
+  },
+  {
+    "pokemon_species_id": 289,
+    "name_german": "Letarking",
+    "name_english": "Slaking"
+  },
+  {
+    "pokemon_species_id": 290,
+    "name_german": "Nincada",
+    "name_english": "Nincada"
+  },
+  {
+    "pokemon_species_id": 291,
+    "name_german": "Ninjask",
+    "name_english": "Ninjask"
+  },
+  {
+    "pokemon_species_id": 292,
+    "name_german": "Ninjatom",
+    "name_english": "Shedinja"
+  },
+  {
+    "pokemon_species_id": 293,
+    "name_german": "Flurmel",
+    "name_english": "Whismur"
+  },
+  {
+    "pokemon_species_id": 294,
+    "name_german": "Krakeelo",
+    "name_english": "Loudred"
+  },
+  {
+    "pokemon_species_id": 295,
+    "name_german": "Krawumms",
+    "name_english": "Exploud"
+  },
+  {
+    "pokemon_species_id": 296,
+    "name_german": "Makuhita",
+    "name_english": "Makuhita"
+  },
+  {
+    "pokemon_species_id": 297,
+    "name_german": "Hariyama",
+    "name_english": "Hariyama"
+  },
+  {
+    "pokemon_species_id": 298,
+    "name_german": "Azurill",
+    "name_english": "Azurill"
+  },
+  {
+    "pokemon_species_id": 299,
+    "name_german": "Nasgnet",
+    "name_english": "Nosepass"
+  },
+  {
+    "pokemon_species_id": 300,
+    "name_german": "Eneco",
+    "name_english": "Skitty"
+  },
+  {
+    "pokemon_species_id": 301,
+    "name_german": "Enekoro",
+    "name_english": "Delcatty"
+  },
+  {
+    "pokemon_species_id": 302,
+    "name_german": "Zobiris",
+    "name_english": "Sableye"
+  },
+  {
+    "pokemon_species_id": 303,
+    "name_german": "Flunkifer",
+    "name_english": "Mawile"
+  },
+  {
+    "pokemon_species_id": 304,
+    "name_german": "Stollunior",
+    "name_english": "Aron"
+  },
+  {
+    "pokemon_species_id": 305,
+    "name_german": "Stollrak",
+    "name_english": "Lairon"
+  },
+  {
+    "pokemon_species_id": 306,
+    "name_german": "Stolloss",
+    "name_english": "Aggron"
+  },
+  {
+    "pokemon_species_id": 307,
+    "name_german": "Meditie",
+    "name_english": "Meditite"
+  },
+  {
+    "pokemon_species_id": 308,
+    "name_german": "Meditalis",
+    "name_english": "Medicham"
+  },
+  {
+    "pokemon_species_id": 309,
+    "name_german": "Frizelbliz",
+    "name_english": "Electrike"
+  },
+  {
+    "pokemon_species_id": 310,
+    "name_german": "Voltenso",
+    "name_english": "Manectric"
+  },
+  {
+    "pokemon_species_id": 311,
+    "name_german": "Plusle",
+    "name_english": "Plusle"
+  },
+  {
+    "pokemon_species_id": 312,
+    "name_german": "Minun",
+    "name_english": "Minun"
+  },
+  {
+    "pokemon_species_id": 313,
+    "name_german": "Volbeat",
+    "name_english": "Volbeat"
+  },
+  {
+    "pokemon_species_id": 314,
+    "name_german": "Illumise",
+    "name_english": "Illumise"
+  },
+  {
+    "pokemon_species_id": 315,
+    "name_german": "Roselia",
+    "name_english": "Roselia"
+  },
+  {
+    "pokemon_species_id": 316,
+    "name_german": "Schluppuck",
+    "name_english": "Gulpin"
+  },
+  {
+    "pokemon_species_id": 317,
+    "name_german": "Schlukwech",
+    "name_english": "Swalot"
+  },
+  {
+    "pokemon_species_id": 318,
+    "name_german": "Kanivanha",
+    "name_english": "Carvanha"
+  },
+  {
+    "pokemon_species_id": 319,
+    "name_german": "Tohaido",
+    "name_english": "Sharpedo"
+  },
+  {
+    "pokemon_species_id": 320,
+    "name_german": "Wailmer",
+    "name_english": "Wailmer"
+  },
+  {
+    "pokemon_species_id": 321,
+    "name_german": "Wailord",
+    "name_english": "Wailord"
+  },
+  {
+    "pokemon_species_id": 322,
+    "name_german": "Camaub",
+    "name_english": "Numel"
+  },
+  {
+    "pokemon_species_id": 323,
+    "name_german": "Camerupt",
+    "name_english": "Camerupt"
+  },
+  {
+    "pokemon_species_id": 324,
+    "name_german": "Qurtel",
+    "name_english": "Torkoal"
+  },
+  {
+    "pokemon_species_id": 325,
+    "name_german": "Spoink",
+    "name_english": "Spoink"
+  },
+  {
+    "pokemon_species_id": 326,
+    "name_german": "Groink",
+    "name_english": "Grumpig"
+  },
+  {
+    "pokemon_species_id": 327,
+    "name_german": "Pandir",
+    "name_english": "Spinda"
+  },
+  {
+    "pokemon_species_id": 328,
+    "name_german": "Knacklion",
+    "name_english": "Trapinch"
+  },
+  {
+    "pokemon_species_id": 329,
+    "name_german": "Vibrava",
+    "name_english": "Vibrava"
+  },
+  {
+    "pokemon_species_id": 330,
+    "name_german": "Libelldra",
+    "name_english": "Flygon"
+  },
+  {
+    "pokemon_species_id": 331,
+    "name_german": "Tuska",
+    "name_english": "Cacnea"
+  },
+  {
+    "pokemon_species_id": 332,
+    "name_german": "Noktuska",
+    "name_english": "Cacturne"
+  },
+  {
+    "pokemon_species_id": 333,
+    "name_german": "Wablu",
+    "name_english": "Swablu"
+  },
+  {
+    "pokemon_species_id": 334,
+    "name_german": "Altaria",
+    "name_english": "Altaria"
+  },
+  {
+    "pokemon_species_id": 335,
+    "name_german": "Sengo",
+    "name_english": "Zangoose"
+  },
+  {
+    "pokemon_species_id": 336,
+    "name_german": "Vipitis",
+    "name_english": "Seviper"
+  },
+  {
+    "pokemon_species_id": 337,
+    "name_german": "Lunastein",
+    "name_english": "Lunatone"
+  },
+  {
+    "pokemon_species_id": 338,
+    "name_german": "Sonnfel",
+    "name_english": "Solrock"
+  },
+  {
+    "pokemon_species_id": 339,
+    "name_german": "Schmerbe",
+    "name_english": "Barboach"
+  },
+  {
+    "pokemon_species_id": 340,
+    "name_german": "Welsar",
+    "name_english": "Whiscash"
+  },
+  {
+    "pokemon_species_id": 341,
+    "name_german": "Krebscorps",
+    "name_english": "Corphish"
+  },
+  {
+    "pokemon_species_id": 342,
+    "name_german": "Krebutack",
+    "name_english": "Crawdaunt"
+  },
+  {
+    "pokemon_species_id": 343,
+    "name_german": "Puppance",
+    "name_english": "Baltoy"
+  },
+  {
+    "pokemon_species_id": 344,
+    "name_german": "Lepumentas",
+    "name_english": "Claydol"
+  },
+  {
+    "pokemon_species_id": 345,
+    "name_german": "Liliep",
+    "name_english": "Lileep"
+  },
+  {
+    "pokemon_species_id": 346,
+    "name_german": "Wielie",
+    "name_english": "Cradily"
+  },
+  {
+    "pokemon_species_id": 347,
+    "name_german": "Anorith",
+    "name_english": "Anorith"
+  },
+  {
+    "pokemon_species_id": 348,
+    "name_german": "Armaldo",
+    "name_english": "Armaldo"
+  },
+  {
+    "pokemon_species_id": 349,
+    "name_german": "Barschwa",
+    "name_english": "Feebas"
+  },
+  {
+    "pokemon_species_id": 350,
+    "name_german": "Milotic",
+    "name_english": "Milotic"
+  },
+  {
+    "pokemon_species_id": 351,
+    "name_german": "Formeo",
+    "name_english": "Castform"
+  },
+  {
+    "pokemon_species_id": 352,
+    "name_german": "Kecleon",
+    "name_english": "Kecleon"
+  },
+  {
+    "pokemon_species_id": 353,
+    "name_german": "Shuppet",
+    "name_english": "Shuppet"
+  },
+  {
+    "pokemon_species_id": 354,
+    "name_german": "Banette",
+    "name_english": "Banette"
+  },
+  {
+    "pokemon_species_id": 355,
+    "name_german": "Zwirrlicht",
+    "name_english": "Duskull"
+  },
+  {
+    "pokemon_species_id": 356,
+    "name_german": "Zwirrklop",
+    "name_english": "Dusclops"
+  },
+  {
+    "pokemon_species_id": 357,
+    "name_german": "Tropius",
+    "name_english": "Tropius"
+  },
+  {
+    "pokemon_species_id": 358,
+    "name_german": "Palimpalim",
+    "name_english": "Chimecho"
+  },
+  {
+    "pokemon_species_id": 359,
+    "name_german": "Absol",
+    "name_english": "Absol"
+  },
+  {
+    "pokemon_species_id": 360,
+    "name_german": "Isso",
+    "name_english": "Wynaut"
+  },
+  {
+    "pokemon_species_id": 361,
+    "name_german": "Schneppke",
+    "name_english": "Snorunt"
+  },
+  {
+    "pokemon_species_id": 362,
+    "name_german": "Firnontor",
+    "name_english": "Glalie"
+  },
+  {
+    "pokemon_species_id": 363,
+    "name_german": "Seemops",
+    "name_english": "Spheal"
+  },
+  {
+    "pokemon_species_id": 364,
+    "name_german": "Seejong",
+    "name_english": "Sealeo"
+  },
+  {
+    "pokemon_species_id": 365,
+    "name_german": "Walraisa",
+    "name_english": "Walrein"
+  },
+  {
+    "pokemon_species_id": 366,
+    "name_german": "Perlu",
+    "name_english": "Clamperl"
+  },
+  {
+    "pokemon_species_id": 367,
+    "name_german": "Aalabyss",
+    "name_english": "Huntail"
+  },
+  {
+    "pokemon_species_id": 368,
+    "name_german": "Saganabyss",
+    "name_english": "Gorebyss"
+  },
+  {
+    "pokemon_species_id": 369,
+    "name_german": "Relicanth",
+    "name_english": "Relicanth"
+  },
+  {
+    "pokemon_species_id": 370,
+    "name_german": "Liebiskus",
+    "name_english": "Luvdisc"
+  },
+  {
+    "pokemon_species_id": 371,
+    "name_german": "Kindwurm",
+    "name_english": "Bagon"
+  },
+  {
+    "pokemon_species_id": 372,
+    "name_german": "Draschel",
+    "name_english": "Shelgon"
+  },
+  {
+    "pokemon_species_id": 373,
+    "name_german": "Brutalanda",
+    "name_english": "Salamence"
+  },
+  {
+    "pokemon_species_id": 374,
+    "name_german": "Tanhel",
+    "name_english": "Beldum"
+  },
+  {
+    "pokemon_species_id": 375,
+    "name_german": "Metang",
+    "name_english": "Metang"
+  },
+  {
+    "pokemon_species_id": 376,
+    "name_german": "Metagross",
+    "name_english": "Metagross"
+  },
+  {
+    "pokemon_species_id": 377,
+    "name_german": "Regirock",
+    "name_english": "Regirock"
+  },
+  {
+    "pokemon_species_id": 378,
+    "name_german": "Regice",
+    "name_english": "Regice"
+  },
+  {
+    "pokemon_species_id": 379,
+    "name_german": "Registeel",
+    "name_english": "Registeel"
+  },
+  {
+    "pokemon_species_id": 380,
+    "name_german": "Latias",
+    "name_english": "Latias"
+  },
+  {
+    "pokemon_species_id": 381,
+    "name_german": "Latios",
+    "name_english": "Latios"
+  },
+  {
+    "pokemon_species_id": 382,
+    "name_german": "Kyogre",
+    "name_english": "Kyogre"
+  },
+  {
+    "pokemon_species_id": 383,
+    "name_german": "Groudon",
+    "name_english": "Groudon"
+  },
+  {
+    "pokemon_species_id": 384,
+    "name_german": "Rayquaza",
+    "name_english": "Rayquaza"
+  },
+  {
+    "pokemon_species_id": 385,
+    "name_german": "Jirachi",
+    "name_english": "Jirachi"
+  },
+  {
+    "pokemon_species_id": 386,
+    "name_german": "Deoxys",
+    "name_english": "Deoxys"
+  },
+  {
+    "pokemon_species_id": 387,
+    "name_german": "Chelast",
+    "name_english": "Turtwig"
+  },
+  {
+    "pokemon_species_id": 388,
+    "name_german": "Chelcarain",
+    "name_english": "Grotle"
+  },
+  {
+    "pokemon_species_id": 389,
+    "name_german": "Chelterrar",
+    "name_english": "Torterra"
+  },
+  {
+    "pokemon_species_id": 390,
+    "name_german": "Panflam",
+    "name_english": "Chimchar"
+  },
+  {
+    "pokemon_species_id": 391,
+    "name_german": "Panpyro",
+    "name_english": "Monferno"
+  },
+  {
+    "pokemon_species_id": 392,
+    "name_german": "Panferno",
+    "name_english": "Infernape"
+  },
+  {
+    "pokemon_species_id": 393,
+    "name_german": "Plinfa",
+    "name_english": "Piplup"
+  },
+  {
+    "pokemon_species_id": 394,
+    "name_german": "Pliprin",
+    "name_english": "Prinplup"
+  },
+  {
+    "pokemon_species_id": 395,
+    "name_german": "Impoleon",
+    "name_english": "Empoleon"
+  },
+  {
+    "pokemon_species_id": 396,
+    "name_german": "Staralili",
+    "name_english": "Starly"
+  },
+  {
+    "pokemon_species_id": 397,
+    "name_german": "Staravia",
+    "name_english": "Staravia"
+  },
+  {
+    "pokemon_species_id": 398,
+    "name_german": "Staraptor",
+    "name_english": "Staraptor"
+  },
+  {
+    "pokemon_species_id": 399,
+    "name_german": "Bidiza",
+    "name_english": "Bidoof"
+  },
+  {
+    "pokemon_species_id": 400,
+    "name_german": "Bidifas",
+    "name_english": "Bibarel"
+  },
+  {
+    "pokemon_species_id": 401,
+    "name_german": "Zirpurze",
+    "name_english": "Kricketot"
+  },
+  {
+    "pokemon_species_id": 402,
+    "name_german": "Zirpeise",
+    "name_english": "Kricketune"
+  },
+  {
+    "pokemon_species_id": 403,
+    "name_german": "Sheinux",
+    "name_english": "Shinx"
+  },
+  {
+    "pokemon_species_id": 404,
+    "name_german": "Luxio",
+    "name_english": "Luxio"
+  },
+  {
+    "pokemon_species_id": 405,
+    "name_german": "Luxtra",
+    "name_english": "Luxray"
+  },
+  {
+    "pokemon_species_id": 406,
+    "name_german": "Knospi",
+    "name_english": "Budew"
+  },
+  {
+    "pokemon_species_id": 407,
+    "name_german": "Roserade",
+    "name_english": "Roserade"
+  },
+  {
+    "pokemon_species_id": 408,
+    "name_german": "Koknodon",
+    "name_english": "Cranidos"
+  },
+  {
+    "pokemon_species_id": 409,
+    "name_german": "Rameidon",
+    "name_english": "Rampardos"
+  },
+  {
+    "pokemon_species_id": 410,
+    "name_german": "Schilterus",
+    "name_english": "Shieldon"
+  },
+  {
+    "pokemon_species_id": 411,
+    "name_german": "Bollterus",
+    "name_english": "Bastiodon"
+  },
+  {
+    "pokemon_species_id": 412,
+    "name_german": "Burmy",
+    "name_english": "Burmy"
+  },
+  {
+    "pokemon_species_id": 413,
+    "name_german": "Burmadame",
+    "name_english": "Wormadam"
+  },
+  {
+    "pokemon_species_id": 414,
+    "name_german": "Moterpel",
+    "name_english": "Mothim"
+  },
+  {
+    "pokemon_species_id": 415,
+    "name_german": "Wadribie",
+    "name_english": "Combee"
+  },
+  {
+    "pokemon_species_id": 416,
+    "name_german": "Honweisel",
+    "name_english": "Vespiquen"
+  },
+  {
+    "pokemon_species_id": 417,
+    "name_german": "Pachirisu",
+    "name_english": "Pachirisu"
+  },
+  {
+    "pokemon_species_id": 418,
+    "name_german": "Bamelin",
+    "name_english": "Buizel"
+  },
+  {
+    "pokemon_species_id": 419,
+    "name_german": "Bojelin",
+    "name_english": "Floatzel"
+  },
+  {
+    "pokemon_species_id": 420,
+    "name_german": "Kikugi",
+    "name_english": "Cherubi"
+  },
+  {
+    "pokemon_species_id": 421,
+    "name_german": "Kinoso",
+    "name_english": "Cherrim"
+  },
+  {
+    "pokemon_species_id": 422,
+    "name_german": "Schalellos",
+    "name_english": "Shellos"
+  },
+  {
+    "pokemon_species_id": 423,
+    "name_german": "Gastrodon",
+    "name_english": "Gastrodon"
+  },
+  {
+    "pokemon_species_id": 424,
+    "name_german": "Ambidiffel",
+    "name_english": "Ambipom"
+  },
+  {
+    "pokemon_species_id": 425,
+    "name_german": "Driftlon",
+    "name_english": "Drifloon"
+  },
+  {
+    "pokemon_species_id": 426,
+    "name_german": "Drifzepeli",
+    "name_english": "Drifblim"
+  },
+  {
+    "pokemon_species_id": 427,
+    "name_german": "Haspiror",
+    "name_english": "Buneary"
+  },
+  {
+    "pokemon_species_id": 428,
+    "name_german": "Schlapor",
+    "name_english": "Lopunny"
+  },
+  {
+    "pokemon_species_id": 429,
+    "name_german": "Traunmagil",
+    "name_english": "Mismagius"
+  },
+  {
+    "pokemon_species_id": 430,
+    "name_german": "Kramshef",
+    "name_english": "Honchkrow"
+  },
+  {
+    "pokemon_species_id": 431,
+    "name_german": "Charmian",
+    "name_english": "Glameow"
+  },
+  {
+    "pokemon_species_id": 432,
+    "name_german": "Shnurgarst",
+    "name_english": "Purugly"
+  },
+  {
+    "pokemon_species_id": 433,
+    "name_german": "Klingplim",
+    "name_english": "Chingling"
+  },
+  {
+    "pokemon_species_id": 434,
+    "name_german": "Skunkapuh",
+    "name_english": "Stunky"
+  },
+  {
+    "pokemon_species_id": 435,
+    "name_german": "Skuntank",
+    "name_english": "Skuntank"
+  },
+  {
+    "pokemon_species_id": 436,
+    "name_german": "Bronzel",
+    "name_english": "Bronzor"
+  },
+  {
+    "pokemon_species_id": 437,
+    "name_german": "Bronzong",
+    "name_english": "Bronzong"
+  },
+  {
+    "pokemon_species_id": 438,
+    "name_german": "Mobai",
+    "name_english": "Bonsly"
+  },
+  {
+    "pokemon_species_id": 439,
+    "name_german": "Pantimimi",
+    "name_english": "Mime Jr."
+  },
+  {
+    "pokemon_species_id": 440,
+    "name_german": "Wonneira",
+    "name_english": "Happiny"
+  },
+  {
+    "pokemon_species_id": 441,
+    "name_german": "Plaudagei",
+    "name_english": "Chatot"
+  },
+  {
+    "pokemon_species_id": 442,
+    "name_german": "Kryppuk",
+    "name_english": "Spiritomb"
+  },
+  {
+    "pokemon_species_id": 443,
+    "name_german": "Kaumalat",
+    "name_english": "Gible"
+  },
+  {
+    "pokemon_species_id": 444,
+    "name_german": "Knarksel",
+    "name_english": "Gabite"
+  },
+  {
+    "pokemon_species_id": 445,
+    "name_german": "Knakrack",
+    "name_english": "Garchomp"
+  },
+  {
+    "pokemon_species_id": 446,
+    "name_german": "Mampfaxo",
+    "name_english": "Munchlax"
+  },
+  {
+    "pokemon_species_id": 447,
+    "name_german": "Riolu",
+    "name_english": "Riolu"
+  },
+  {
+    "pokemon_species_id": 448,
+    "name_german": "Lucario",
+    "name_english": "Lucario"
+  },
+  {
+    "pokemon_species_id": 449,
+    "name_german": "Hippopotas",
+    "name_english": "Hippopotas"
+  },
+  {
+    "pokemon_species_id": 450,
+    "name_german": "Hippoterus",
+    "name_english": "Hippowdon"
+  },
+  {
+    "pokemon_species_id": 451,
+    "name_german": "Pionskora",
+    "name_english": "Skorupi"
+  },
+  {
+    "pokemon_species_id": 452,
+    "name_german": "Piondragi",
+    "name_english": "Drapion"
+  },
+  {
+    "pokemon_species_id": 453,
+    "name_german": "Glibunkel",
+    "name_english": "Croagunk"
+  },
+  {
+    "pokemon_species_id": 454,
+    "name_german": "Toxiquak",
+    "name_english": "Toxicroak"
+  },
+  {
+    "pokemon_species_id": 455,
+    "name_german": "Venuflibis",
+    "name_english": "Carnivine"
+  },
+  {
+    "pokemon_species_id": 456,
+    "name_german": "Finneon",
+    "name_english": "Finneon"
+  },
+  {
+    "pokemon_species_id": 457,
+    "name_german": "Lumineon",
+    "name_english": "Lumineon"
+  },
+  {
+    "pokemon_species_id": 458,
+    "name_german": "Mantirps",
+    "name_english": "Mantyke"
+  },
+  {
+    "pokemon_species_id": 459,
+    "name_german": "Shnebedeck",
+    "name_english": "Snover"
+  },
+  {
+    "pokemon_species_id": 460,
+    "name_german": "Rexblisar",
+    "name_english": "Abomasnow"
+  },
+  {
+    "pokemon_species_id": 461,
+    "name_german": "Snibunna",
+    "name_english": "Weavile"
+  },
+  {
+    "pokemon_species_id": 462,
+    "name_german": "Magnezone",
+    "name_english": "Magnezone"
+  },
+  {
+    "pokemon_species_id": 463,
+    "name_german": "Schlurplek",
+    "name_english": "Lickilicky"
+  },
+  {
+    "pokemon_species_id": 464,
+    "name_german": "Rihornior",
+    "name_english": "Rhyperior"
+  },
+  {
+    "pokemon_species_id": 465,
+    "name_german": "Tangoloss",
+    "name_english": "Tangrowth"
+  },
+  {
+    "pokemon_species_id": 466,
+    "name_german": "Elevoltek",
+    "name_english": "Electivire"
+  },
+  {
+    "pokemon_species_id": 467,
+    "name_german": "Magbrant",
+    "name_english": "Magmortar"
+  },
+  {
+    "pokemon_species_id": 468,
+    "name_german": "Togekiss",
+    "name_english": "Togekiss"
+  },
+  {
+    "pokemon_species_id": 469,
+    "name_german": "Yanmega",
+    "name_english": "Yanmega"
+  },
+  {
+    "pokemon_species_id": 470,
+    "name_german": "Folipurba",
+    "name_english": "Leafeon"
+  },
+  {
+    "pokemon_species_id": 471,
+    "name_german": "Glaziola",
+    "name_english": "Glaceon"
+  },
+  {
+    "pokemon_species_id": 472,
+    "name_german": "Skorgro",
+    "name_english": "Gliscor"
+  },
+  {
+    "pokemon_species_id": 473,
+    "name_german": "Mamutel",
+    "name_english": "Mamoswine"
+  },
+  {
+    "pokemon_species_id": 474,
+    "name_german": "Porygon-Z",
+    "name_english": "Porygon-Z"
+  },
+  {
+    "pokemon_species_id": 475,
+    "name_german": "Galagladi",
+    "name_english": "Gallade"
+  },
+  {
+    "pokemon_species_id": 476,
+    "name_german": "Voluminas",
+    "name_english": "Probopass"
+  },
+  {
+    "pokemon_species_id": 477,
+    "name_german": "Zwirrfinst",
+    "name_english": "Dusknoir"
+  },
+  {
+    "pokemon_species_id": 478,
+    "name_german": "Frosdedje",
+    "name_english": "Froslass"
+  },
+  {
+    "pokemon_species_id": 479,
+    "name_german": "Rotom",
+    "name_english": "Rotom"
+  },
+  {
+    "pokemon_species_id": 480,
+    "name_german": "Selfe",
+    "name_english": "Uxie"
+  },
+  {
+    "pokemon_species_id": 481,
+    "name_german": "Vesprit",
+    "name_english": "Mesprit"
+  },
+  {
+    "pokemon_species_id": 482,
+    "name_german": "Tobutz",
+    "name_english": "Azelf"
+  },
+  {
+    "pokemon_species_id": 483,
+    "name_german": "Dialga",
+    "name_english": "Dialga"
+  },
+  {
+    "pokemon_species_id": 484,
+    "name_german": "Palkia",
+    "name_english": "Palkia"
+  },
+  {
+    "pokemon_species_id": 485,
+    "name_german": "Heatran",
+    "name_english": "Heatran"
+  },
+  {
+    "pokemon_species_id": 486,
+    "name_german": "Regigigas",
+    "name_english": "Regigigas"
+  },
+  {
+    "pokemon_species_id": 487,
+    "name_german": "Giratina",
+    "name_english": "Giratina"
+  },
+  {
+    "pokemon_species_id": 488,
+    "name_german": "Cresselia",
+    "name_english": "Cresselia"
+  },
+  {
+    "pokemon_species_id": 489,
+    "name_german": "Phione",
+    "name_english": "Phione"
+  },
+  {
+    "pokemon_species_id": 490,
+    "name_german": "Manaphy",
+    "name_english": "Manaphy"
+  },
+  {
+    "pokemon_species_id": 491,
+    "name_german": "Darkrai",
+    "name_english": "Darkrai"
+  },
+  {
+    "pokemon_species_id": 492,
+    "name_german": "Shaymin",
+    "name_english": "Shaymin"
+  },
+  {
+    "pokemon_species_id": 493,
+    "name_german": "Arceus",
+    "name_english": "Arceus"
+  },
+  {
+    "pokemon_species_id": 494,
+    "name_german": "Victini",
+    "name_english": "Victini"
+  },
+  {
+    "pokemon_species_id": 495,
+    "name_german": "Serpifeu",
+    "name_english": "Snivy"
+  },
+  {
+    "pokemon_species_id": 496,
+    "name_german": "Efoserp",
+    "name_english": "Servine"
+  },
+  {
+    "pokemon_species_id": 497,
+    "name_german": "Serpiroyal",
+    "name_english": "Serperior"
+  },
+  {
+    "pokemon_species_id": 498,
+    "name_german": "Floink",
+    "name_english": "Tepig"
+  },
+  {
+    "pokemon_species_id": 499,
+    "name_german": "Ferkokel",
+    "name_english": "Pignite"
+  },
+  {
+    "pokemon_species_id": 500,
+    "name_german": "Flambirex",
+    "name_english": "Emboar"
+  },
+  {
+    "pokemon_species_id": 501,
+    "name_german": "Ottaro",
+    "name_english": "Oshawott"
+  },
+  {
+    "pokemon_species_id": 502,
+    "name_german": "Zwottronin",
+    "name_english": "Dewott"
+  },
+  {
+    "pokemon_species_id": 503,
+    "name_german": "Admurai",
+    "name_english": "Samurott"
+  },
+  {
+    "pokemon_species_id": 504,
+    "name_german": "Nagelotz",
+    "name_english": "Patrat"
+  },
+  {
+    "pokemon_species_id": 505,
+    "name_german": "Kukmarda",
+    "name_english": "Watchog"
+  },
+  {
+    "pokemon_species_id": 506,
+    "name_german": "Yorkleff",
+    "name_english": "Lillipup"
+  },
+  {
+    "pokemon_species_id": 507,
+    "name_german": "Terribark",
+    "name_english": "Herdier"
+  },
+  {
+    "pokemon_species_id": 508,
+    "name_german": "Bissbark",
+    "name_english": "Stoutland"
+  },
+  {
+    "pokemon_species_id": 509,
+    "name_german": "Felilou",
+    "name_english": "Purrloin"
+  },
+  {
+    "pokemon_species_id": 510,
+    "name_german": "Kleoparda",
+    "name_english": "Liepard"
+  },
+  {
+    "pokemon_species_id": 511,
+    "name_german": "Vegimak",
+    "name_english": "Pansage"
+  },
+  {
+    "pokemon_species_id": 512,
+    "name_german": "Vegichita",
+    "name_english": "Simisage"
+  },
+  {
+    "pokemon_species_id": 513,
+    "name_german": "Grillmak",
+    "name_english": "Pansear"
+  },
+  {
+    "pokemon_species_id": 514,
+    "name_german": "Grillchita",
+    "name_english": "Simisear"
+  },
+  {
+    "pokemon_species_id": 515,
+    "name_german": "Sodamak",
+    "name_english": "Panpour"
+  },
+  {
+    "pokemon_species_id": 516,
+    "name_german": "Sodachita",
+    "name_english": "Simipour"
+  },
+  {
+    "pokemon_species_id": 517,
+    "name_german": "Somniam",
+    "name_english": "Munna"
+  },
+  {
+    "pokemon_species_id": 518,
+    "name_german": "Somnivora",
+    "name_english": "Musharna"
+  },
+  {
+    "pokemon_species_id": 519,
+    "name_german": "Dusselgurr",
+    "name_english": "Pidove"
+  },
+  {
+    "pokemon_species_id": 520,
+    "name_german": "Navitaub",
+    "name_english": "Tranquill"
+  },
+  {
+    "pokemon_species_id": 521,
+    "name_german": "Fasasnob",
+    "name_english": "Unfezant"
+  },
+  {
+    "pokemon_species_id": 522,
+    "name_german": "Elezeba",
+    "name_english": "Blitzle"
+  },
+  {
+    "pokemon_species_id": 523,
+    "name_german": "Zebritz",
+    "name_english": "Zebstrika"
+  },
+  {
+    "pokemon_species_id": 524,
+    "name_german": "Kiesling",
+    "name_english": "Roggenrola"
+  },
+  {
+    "pokemon_species_id": 525,
+    "name_german": "Sedimantur",
+    "name_english": "Boldore"
+  },
+  {
+    "pokemon_species_id": 526,
+    "name_german": "Brockoloss",
+    "name_english": "Gigalith"
+  },
+  {
+    "pokemon_species_id": 527,
+    "name_german": "Fleknoil",
+    "name_english": "Woobat"
+  },
+  {
+    "pokemon_species_id": 528,
+    "name_german": "Fletiamo",
+    "name_english": "Swoobat"
+  },
+  {
+    "pokemon_species_id": 529,
+    "name_german": "Rotomurf",
+    "name_english": "Drilbur"
+  },
+  {
+    "pokemon_species_id": 530,
+    "name_german": "Stalobor",
+    "name_english": "Excadrill"
+  },
+  {
+    "pokemon_species_id": 531,
+    "name_german": "Ohrdoch",
+    "name_english": "Audino"
+  },
+  {
+    "pokemon_species_id": 532,
+    "name_german": "Praktibalk",
+    "name_english": "Timburr"
+  },
+  {
+    "pokemon_species_id": 533,
+    "name_german": "Strepoli",
+    "name_english": "Gurdurr"
+  },
+  {
+    "pokemon_species_id": 534,
+    "name_german": "Meistagrif",
+    "name_english": "Conkeldurr"
+  },
+  {
+    "pokemon_species_id": 535,
+    "name_german": "Schallquap",
+    "name_english": "Tympole"
+  },
+  {
+    "pokemon_species_id": 536,
+    "name_german": "Mebrana",
+    "name_english": "Palpitoad"
+  },
+  {
+    "pokemon_species_id": 537,
+    "name_german": "Branawarz",
+    "name_english": "Seismitoad"
+  },
+  {
+    "pokemon_species_id": 538,
+    "name_german": "Jiutesto",
+    "name_english": "Throh"
+  },
+  {
+    "pokemon_species_id": 539,
+    "name_german": "Karadonis",
+    "name_english": "Sawk"
+  },
+  {
+    "pokemon_species_id": 540,
+    "name_german": "Strawickl",
+    "name_english": "Sewaddle"
+  },
+  {
+    "pokemon_species_id": 541,
+    "name_german": "Folikon",
+    "name_english": "Swadloon"
+  },
+  {
+    "pokemon_species_id": 542,
+    "name_german": "Matrifol",
+    "name_english": "Leavanny"
+  },
+  {
+    "pokemon_species_id": 543,
+    "name_german": "Toxiped",
+    "name_english": "Venipede"
+  },
+  {
+    "pokemon_species_id": 544,
+    "name_german": "Rollum",
+    "name_english": "Whirlipede"
+  },
+  {
+    "pokemon_species_id": 545,
+    "name_german": "Cerapendra",
+    "name_english": "Scolipede"
+  },
+  {
+    "pokemon_species_id": 546,
+    "name_german": "Waumboll",
+    "name_english": "Cottonee"
+  },
+  {
+    "pokemon_species_id": 547,
+    "name_german": "Elfun",
+    "name_english": "Whimsicott"
+  },
+  {
+    "pokemon_species_id": 548,
+    "name_german": "Lilminip",
+    "name_english": "Petilil"
+  },
+  {
+    "pokemon_species_id": 549,
+    "name_german": "Dressella",
+    "name_english": "Lilligant"
+  },
+  {
+    "pokemon_species_id": 550,
+    "name_german": "Barschuft",
+    "name_english": "Basculin"
+  },
+  {
+    "pokemon_species_id": 551,
+    "name_german": "Ganovil",
+    "name_english": "Sandile"
+  },
+  {
+    "pokemon_species_id": 552,
+    "name_german": "Rokkaiman",
+    "name_english": "Krokorok"
+  },
+  {
+    "pokemon_species_id": 553,
+    "name_german": "Rabigator",
+    "name_english": "Krookodile"
+  },
+  {
+    "pokemon_species_id": 554,
+    "name_german": "Flampion",
+    "name_english": "Darumaka"
+  },
+  {
+    "pokemon_species_id": 555,
+    "name_german": "Flampivian",
+    "name_english": "Darmanitan"
+  },
+  {
+    "pokemon_species_id": 556,
+    "name_german": "Maracamba",
+    "name_english": "Maractus"
+  },
+  {
+    "pokemon_species_id": 557,
+    "name_german": "Lithomith",
+    "name_english": "Dwebble"
+  },
+  {
+    "pokemon_species_id": 558,
+    "name_german": "Castellith",
+    "name_english": "Crustle"
+  },
+  {
+    "pokemon_species_id": 559,
+    "name_german": "Zurrokex",
+    "name_english": "Scraggy"
+  },
+  {
+    "pokemon_species_id": 560,
+    "name_german": "Irokex",
+    "name_english": "Scrafty"
+  },
+  {
+    "pokemon_species_id": 561,
+    "name_german": "Symvolara",
+    "name_english": "Sigilyph"
+  },
+  {
+    "pokemon_species_id": 562,
+    "name_german": "Makabaja",
+    "name_english": "Yamask"
+  },
+  {
+    "pokemon_species_id": 563,
+    "name_german": "Echnatoll",
+    "name_english": "Cofagrigus"
+  },
+  {
+    "pokemon_species_id": 564,
+    "name_german": "Galapaflos",
+    "name_english": "Tirtouga"
+  },
+  {
+    "pokemon_species_id": 565,
+    "name_german": "Karippas",
+    "name_english": "Carracosta"
+  },
+  {
+    "pokemon_species_id": 566,
+    "name_german": "Flapteryx",
+    "name_english": "Archen"
+  },
+  {
+    "pokemon_species_id": 567,
+    "name_german": "Aeropteryx",
+    "name_english": "Archeops"
+  },
+  {
+    "pokemon_species_id": 568,
+    "name_german": "Unratütox",
+    "name_english": "Trubbish"
+  },
+  {
+    "pokemon_species_id": 569,
+    "name_german": "Deponitox",
+    "name_english": "Garbodor"
+  },
+  {
+    "pokemon_species_id": 570,
+    "name_german": "Zorua",
+    "name_english": "Zorua"
+  },
+  {
+    "pokemon_species_id": 571,
+    "name_german": "Zoroark",
+    "name_english": "Zoroark"
+  },
+  {
+    "pokemon_species_id": 572,
+    "name_german": "Picochilla",
+    "name_english": "Minccino"
+  },
+  {
+    "pokemon_species_id": 573,
+    "name_german": "Chillabell",
+    "name_english": "Cinccino"
+  },
+  {
+    "pokemon_species_id": 574,
+    "name_german": "Mollimorba",
+    "name_english": "Gothita"
+  },
+  {
+    "pokemon_species_id": 575,
+    "name_german": "Hypnomorba",
+    "name_english": "Gothorita"
+  },
+  {
+    "pokemon_species_id": 576,
+    "name_german": "Morbitesse",
+    "name_english": "Gothitelle"
+  },
+  {
+    "pokemon_species_id": 577,
+    "name_german": "Monozyto",
+    "name_english": "Solosis"
+  },
+  {
+    "pokemon_species_id": 578,
+    "name_german": "Mitodos",
+    "name_english": "Duosion"
+  },
+  {
+    "pokemon_species_id": 579,
+    "name_german": "Zytomega",
+    "name_english": "Reuniclus"
+  },
+  {
+    "pokemon_species_id": 580,
+    "name_german": "Piccolente",
+    "name_english": "Ducklett"
+  },
+  {
+    "pokemon_species_id": 581,
+    "name_german": "Swaroness",
+    "name_english": "Swanna"
+  },
+  {
+    "pokemon_species_id": 582,
+    "name_german": "Gelatini",
+    "name_english": "Vanillite"
+  },
+  {
+    "pokemon_species_id": 583,
+    "name_german": "Gelatroppo",
+    "name_english": "Vanillish"
+  },
+  {
+    "pokemon_species_id": 584,
+    "name_german": "Gelatwino",
+    "name_english": "Vanilluxe"
+  },
+  {
+    "pokemon_species_id": 585,
+    "name_german": "Sesokitz",
+    "name_english": "Deerling"
+  },
+  {
+    "pokemon_species_id": 586,
+    "name_german": "Kronjuwild",
+    "name_english": "Sawsbuck"
+  },
+  {
+    "pokemon_species_id": 587,
+    "name_german": "Emolga",
+    "name_english": "Emolga"
+  },
+  {
+    "pokemon_species_id": 588,
+    "name_german": "Laukaps",
+    "name_english": "Karrablast"
+  },
+  {
+    "pokemon_species_id": 589,
+    "name_german": "Cavalanzas",
+    "name_english": "Escavalier"
+  },
+  {
+    "pokemon_species_id": 590,
+    "name_german": "Tarnpignon",
+    "name_english": "Foongus"
+  },
+  {
+    "pokemon_species_id": 591,
+    "name_german": "Hutsassa",
+    "name_english": "Amoonguss"
+  },
+  {
+    "pokemon_species_id": 592,
+    "name_german": "Quabbel",
+    "name_english": "Frillish"
+  },
+  {
+    "pokemon_species_id": 593,
+    "name_german": "Apoquallyp",
+    "name_english": "Jellicent"
+  },
+  {
+    "pokemon_species_id": 594,
+    "name_german": "Mamolida",
+    "name_english": "Alomomola"
+  },
+  {
+    "pokemon_species_id": 595,
+    "name_german": "Wattzapf",
+    "name_english": "Joltik"
+  },
+  {
+    "pokemon_species_id": 596,
+    "name_german": "Voltula",
+    "name_english": "Galvantula"
+  },
+  {
+    "pokemon_species_id": 597,
+    "name_german": "Kastadur",
+    "name_english": "Ferroseed"
+  },
+  {
+    "pokemon_species_id": 598,
+    "name_german": "Tentantel",
+    "name_english": "Ferrothorn"
+  },
+  {
+    "pokemon_species_id": 599,
+    "name_german": "Klikk",
+    "name_english": "Klink"
+  },
+  {
+    "pokemon_species_id": 600,
+    "name_german": "Kliklak",
+    "name_english": "Klang"
+  },
+  {
+    "pokemon_species_id": 601,
+    "name_german": "Klikdiklak",
+    "name_english": "Klinklang"
+  },
+  {
+    "pokemon_species_id": 602,
+    "name_german": "Zapplardin",
+    "name_english": "Tynamo"
+  },
+  {
+    "pokemon_species_id": 603,
+    "name_german": "Zapplalek",
+    "name_english": "Eelektrik"
+  },
+  {
+    "pokemon_species_id": 604,
+    "name_german": "Zapplarang",
+    "name_english": "Eelektross"
+  },
+  {
+    "pokemon_species_id": 605,
+    "name_german": "Pygraulon",
+    "name_english": "Elgyem"
+  },
+  {
+    "pokemon_species_id": 606,
+    "name_german": "Megalon",
+    "name_english": "Beheeyem"
+  },
+  {
+    "pokemon_species_id": 607,
+    "name_german": "Lichtel",
+    "name_english": "Litwick"
+  },
+  {
+    "pokemon_species_id": 608,
+    "name_german": "Laternecto",
+    "name_english": "Lampent"
+  },
+  {
+    "pokemon_species_id": 609,
+    "name_german": "Skelabra",
+    "name_english": "Chandelure"
+  },
+  {
+    "pokemon_species_id": 610,
+    "name_german": "Milza",
+    "name_english": "Axew"
+  },
+  {
+    "pokemon_species_id": 611,
+    "name_german": "Sharfax",
+    "name_english": "Fraxure"
+  },
+  {
+    "pokemon_species_id": 612,
+    "name_german": "Maxax",
+    "name_english": "Haxorus"
+  },
+  {
+    "pokemon_species_id": 613,
+    "name_german": "Petznief",
+    "name_english": "Cubchoo"
+  },
+  {
+    "pokemon_species_id": 614,
+    "name_german": "Siberio",
+    "name_english": "Beartic"
+  },
+  {
+    "pokemon_species_id": 615,
+    "name_german": "Frigometri",
+    "name_english": "Cryogonal"
+  },
+  {
+    "pokemon_species_id": 616,
+    "name_german": "Schnuthelm",
+    "name_english": "Shelmet"
+  },
+  {
+    "pokemon_species_id": 617,
+    "name_german": "Hydragil",
+    "name_english": "Accelgor"
+  },
+  {
+    "pokemon_species_id": 618,
+    "name_german": "Flunschlik",
+    "name_english": "Stunfisk"
+  },
+  {
+    "pokemon_species_id": 619,
+    "name_german": "Lin-Fu",
+    "name_english": "Mienfoo"
+  },
+  {
+    "pokemon_species_id": 620,
+    "name_german": "Wie-Shu",
+    "name_english": "Mienshao"
+  },
+  {
+    "pokemon_species_id": 621,
+    "name_german": "Shardrago",
+    "name_english": "Druddigon"
+  },
+  {
+    "pokemon_species_id": 622,
+    "name_german": "Golbit",
+    "name_english": "Golett"
+  },
+  {
+    "pokemon_species_id": 623,
+    "name_german": "Golgantes",
+    "name_english": "Golurk"
+  },
+  {
+    "pokemon_species_id": 624,
+    "name_german": "Gladiantri",
+    "name_english": "Pawniard"
+  },
+  {
+    "pokemon_species_id": 625,
+    "name_german": "Caesurio",
+    "name_english": "Bisharp"
+  },
+  {
+    "pokemon_species_id": 626,
+    "name_german": "Bisofank",
+    "name_english": "Bouffalant"
+  },
+  {
+    "pokemon_species_id": 627,
+    "name_german": "Geronimatz",
+    "name_english": "Rufflet"
+  },
+  {
+    "pokemon_species_id": 628,
+    "name_german": "Washakwil",
+    "name_english": "Braviary"
+  },
+  {
+    "pokemon_species_id": 629,
+    "name_german": "Skallyk",
+    "name_english": "Vullaby"
+  },
+  {
+    "pokemon_species_id": 630,
+    "name_german": "Grypheldis",
+    "name_english": "Mandibuzz"
+  },
+  {
+    "pokemon_species_id": 631,
+    "name_german": "Furnifraß",
+    "name_english": "Heatmor"
+  },
+  {
+    "pokemon_species_id": 632,
+    "name_german": "Fermicula",
+    "name_english": "Durant"
+  },
+  {
+    "pokemon_species_id": 633,
+    "name_german": "Kapuno",
+    "name_english": "Deino"
+  },
+  {
+    "pokemon_species_id": 634,
+    "name_german": "Duodino",
+    "name_english": "Zweilous"
+  },
+  {
+    "pokemon_species_id": 635,
+    "name_german": "Trikephalo",
+    "name_english": "Hydreigon"
+  },
+  {
+    "pokemon_species_id": 636,
+    "name_german": "Ignivor",
+    "name_english": "Larvesta"
+  },
+  {
+    "pokemon_species_id": 637,
+    "name_german": "Ramoth",
+    "name_english": "Volcarona"
+  },
+  {
+    "pokemon_species_id": 638,
+    "name_german": "Kobalium",
+    "name_english": "Cobalion"
+  },
+  {
+    "pokemon_species_id": 639,
+    "name_german": "Terrakium",
+    "name_english": "Terrakion"
+  },
+  {
+    "pokemon_species_id": 640,
+    "name_german": "Viridium",
+    "name_english": "Virizion"
+  },
+  {
+    "pokemon_species_id": 641,
+    "name_german": "Boreos",
+    "name_english": "Tornadus"
+  },
+  {
+    "pokemon_species_id": 642,
+    "name_german": "Voltolos",
+    "name_english": "Thundurus"
+  },
+  {
+    "pokemon_species_id": 643,
+    "name_german": "Reshiram",
+    "name_english": "Reshiram"
+  },
+  {
+    "pokemon_species_id": 644,
+    "name_german": "Zekrom",
+    "name_english": "Zekrom"
+  },
+  {
+    "pokemon_species_id": 645,
+    "name_german": "Demeteros",
+    "name_english": "Landorus"
+  },
+  {
+    "pokemon_species_id": 646,
+    "name_german": "Kyurem",
+    "name_english": "Kyurem"
+  },
+  {
+    "pokemon_species_id": 647,
+    "name_german": "Keldeo",
+    "name_english": "Keldeo"
+  },
+  {
+    "pokemon_species_id": 648,
+    "name_german": "Meloetta",
+    "name_english": "Meloetta"
+  },
+  {
+    "pokemon_species_id": 649,
+    "name_german": "Genesect",
+    "name_english": "Genesect"
+  },
+  {
+    "pokemon_species_id": 650,
+    "name_german": "Igamaro",
+    "name_english": "Chespin"
+  },
+  {
+    "pokemon_species_id": 651,
+    "name_german": "Igastarnish",
+    "name_english": "Quilladin"
+  },
+  {
+    "pokemon_species_id": 652,
+    "name_german": "Brigaron",
+    "name_english": "Chesnaught"
+  },
+  {
+    "pokemon_species_id": 653,
+    "name_german": "Fynx",
+    "name_english": "Fennekin"
+  },
+  {
+    "pokemon_species_id": 654,
+    "name_german": "Rutena",
+    "name_english": "Braixen"
+  },
+  {
+    "pokemon_species_id": 655,
+    "name_german": "Fennexis",
+    "name_english": "Delphox"
+  },
+  {
+    "pokemon_species_id": 656,
+    "name_german": "Froxy",
+    "name_english": "Froakie"
+  },
+  {
+    "pokemon_species_id": 657,
+    "name_german": "Amphizel",
+    "name_english": "Frogadier"
+  },
+  {
+    "pokemon_species_id": 658,
+    "name_german": "Quajutsu",
+    "name_english": "Greninja"
+  },
+  {
+    "pokemon_species_id": 659,
+    "name_german": "Scoppel",
+    "name_english": "Bunnelby"
+  },
+  {
+    "pokemon_species_id": 660,
+    "name_german": "Grebbit",
+    "name_english": "Diggersby"
+  },
+  {
+    "pokemon_species_id": 661,
+    "name_german": "Dartiri",
+    "name_english": "Fletchling"
+  },
+  {
+    "pokemon_species_id": 662,
+    "name_german": "Dartignis",
+    "name_english": "Fletchinder"
+  },
+  {
+    "pokemon_species_id": 663,
+    "name_german": "Fiaro",
+    "name_english": "Talonflame"
+  },
+  {
+    "pokemon_species_id": 664,
+    "name_german": "Purmel",
+    "name_english": "Scatterbug"
+  },
+  {
+    "pokemon_species_id": 665,
+    "name_german": "Puponcho",
+    "name_english": "Spewpa"
+  },
+  {
+    "pokemon_species_id": 666,
+    "name_german": "Vivillon",
+    "name_english": "Vivillon"
+  },
+  {
+    "pokemon_species_id": 667,
+    "name_german": "Leufeo",
+    "name_english": "Litleo"
+  },
+  {
+    "pokemon_species_id": 668,
+    "name_german": "Pyroleo",
+    "name_english": "Pyroar"
+  },
+  {
+    "pokemon_species_id": 669,
+    "name_german": "Flabébé",
+    "name_english": "Flabébé"
+  },
+  {
+    "pokemon_species_id": 670,
+    "name_german": "Floette",
+    "name_english": "Floette"
+  },
+  {
+    "pokemon_species_id": 671,
+    "name_german": "Florges",
+    "name_english": "Florges"
+  },
+  {
+    "pokemon_species_id": 672,
+    "name_german": "Mähikel",
+    "name_english": "Skiddo"
+  },
+  {
+    "pokemon_species_id": 673,
+    "name_german": "Chevrumm",
+    "name_english": "Gogoat"
+  },
+  {
+    "pokemon_species_id": 674,
+    "name_german": "Pam-Pam",
+    "name_english": "Pancham"
+  },
+  {
+    "pokemon_species_id": 675,
+    "name_german": "Pandagro",
+    "name_english": "Pangoro"
+  },
+  {
+    "pokemon_species_id": 676,
+    "name_german": "Coiffwaff",
+    "name_english": "Furfrou"
+  },
+  {
+    "pokemon_species_id": 677,
+    "name_german": "Psiau",
+    "name_english": "Espurr"
+  },
+  {
+    "pokemon_species_id": 678,
+    "name_german": "Psiaugon",
+    "name_english": "Meowstic"
+  },
+  {
+    "pokemon_species_id": 679,
+    "name_german": "Gramokles",
+    "name_english": "Honedge"
+  },
+  {
+    "pokemon_species_id": 680,
+    "name_german": "Duokles",
+    "name_english": "Doublade"
+  },
+  {
+    "pokemon_species_id": 681,
+    "name_german": "Durengard",
+    "name_english": "Aegislash"
+  },
+  {
+    "pokemon_species_id": 682,
+    "name_german": "Parfi",
+    "name_english": "Spritzee"
+  },
+  {
+    "pokemon_species_id": 683,
+    "name_german": "Parfinesse",
+    "name_english": "Aromatisse"
+  },
+  {
+    "pokemon_species_id": 684,
+    "name_german": "Flauschling",
+    "name_english": "Swirlix"
+  },
+  {
+    "pokemon_species_id": 685,
+    "name_german": "Sabbaione",
+    "name_english": "Slurpuff"
+  },
+  {
+    "pokemon_species_id": 686,
+    "name_german": "Iscalar",
+    "name_english": "Inkay"
+  },
+  {
+    "pokemon_species_id": 687,
+    "name_german": "Calamanero",
+    "name_english": "Malamar"
+  },
+  {
+    "pokemon_species_id": 688,
+    "name_german": "Bithora",
+    "name_english": "Binacle"
+  },
+  {
+    "pokemon_species_id": 689,
+    "name_german": "Thanathora",
+    "name_english": "Barbaracle"
+  },
+  {
+    "pokemon_species_id": 690,
+    "name_german": "Algitt",
+    "name_english": "Skrelp"
+  },
+  {
+    "pokemon_species_id": 691,
+    "name_german": "Tandrak",
+    "name_english": "Dragalge"
+  },
+  {
+    "pokemon_species_id": 692,
+    "name_german": "Scampisto",
+    "name_english": "Clauncher"
+  },
+  {
+    "pokemon_species_id": 693,
+    "name_german": "Wummer",
+    "name_english": "Clawitzer"
+  },
+  {
+    "pokemon_species_id": 694,
+    "name_german": "Eguana",
+    "name_english": "Helioptile"
+  },
+  {
+    "pokemon_species_id": 695,
+    "name_german": "Elezard",
+    "name_english": "Heliolisk"
+  },
+  {
+    "pokemon_species_id": 696,
+    "name_german": "Balgoras",
+    "name_english": "Tyrunt"
+  },
+  {
+    "pokemon_species_id": 697,
+    "name_german": "Monargoras",
+    "name_english": "Tyrantrum"
+  },
+  {
+    "pokemon_species_id": 698,
+    "name_german": "Amarino",
+    "name_english": "Amaura"
+  },
+  {
+    "pokemon_species_id": 699,
+    "name_german": "Amagarga",
+    "name_english": "Aurorus"
+  },
+  {
+    "pokemon_species_id": 700,
+    "name_german": "Feelinara",
+    "name_english": "Sylveon"
+  },
+  {
+    "pokemon_species_id": 701,
+    "name_german": "Resladero",
+    "name_english": "Hawlucha"
+  },
+  {
+    "pokemon_species_id": 702,
+    "name_german": "Dedenne",
+    "name_english": "Dedenne"
+  },
+  {
+    "pokemon_species_id": 703,
+    "name_german": "Rocara",
+    "name_english": "Carbink"
+  },
+  {
+    "pokemon_species_id": 704,
+    "name_german": "Viscora",
+    "name_english": "Goomy"
+  },
+  {
+    "pokemon_species_id": 705,
+    "name_german": "Viscargot",
+    "name_english": "Sliggoo"
+  },
+  {
+    "pokemon_species_id": 706,
+    "name_german": "Viscogon",
+    "name_english": "Goodra"
+  },
+  {
+    "pokemon_species_id": 707,
+    "name_german": "Clavion",
+    "name_english": "Klefki"
+  },
+  {
+    "pokemon_species_id": 708,
+    "name_german": "Paragoni",
+    "name_english": "Phantump"
+  },
+  {
+    "pokemon_species_id": 709,
+    "name_german": "Trombork",
+    "name_english": "Trevenant"
+  },
+  {
+    "pokemon_species_id": 710,
+    "name_german": "Irrbis",
+    "name_english": "Pumpkaboo"
+  },
+  {
+    "pokemon_species_id": 711,
+    "name_german": "Pumpdjinn",
+    "name_english": "Gourgeist"
+  },
+  {
+    "pokemon_species_id": 712,
+    "name_german": "Arktip",
+    "name_english": "Bergmite"
+  },
+  {
+    "pokemon_species_id": 713,
+    "name_german": "Arktilas",
+    "name_english": "Avalugg"
+  },
+  {
+    "pokemon_species_id": 714,
+    "name_german": "eF-eM",
+    "name_english": "Noibat"
+  },
+  {
+    "pokemon_species_id": 715,
+    "name_german": "UHaFnir",
+    "name_english": "Noivern"
+  },
+  {
+    "pokemon_species_id": 716,
+    "name_german": "Xerneas",
+    "name_english": "Xerneas"
+  },
+  {
+    "pokemon_species_id": 717,
+    "name_german": "Yveltal",
+    "name_english": "Yveltal"
+  },
+  {
+    "pokemon_species_id": 718,
+    "name_german": "Zygarde",
+    "name_english": "Zygarde"
+  },
+  {
+    "pokemon_species_id": 719,
+    "name_german": "Diancie",
+    "name_english": "Diancie"
+  },
+  {
+    "pokemon_species_id": 720,
+    "name_german": "Hoopa",
+    "name_english": "Hoopa"
+  },
+  {
+    "pokemon_species_id": 721,
+    "name_german": "Volcanion",
+    "name_english": "Volcanion"
+  },
+  {
+    "pokemon_species_id": 722,
+    "name_german": "Bauz",
+    "name_english": "Rowlet"
+  },
+  {
+    "pokemon_species_id": 723,
+    "name_german": "Arboretoss",
+    "name_english": "Dartrix"
+  },
+  {
+    "pokemon_species_id": 724,
+    "name_german": "Silvarro",
+    "name_english": "Decidueye"
+  },
+  {
+    "pokemon_species_id": 725,
+    "name_german": "Flamiau",
+    "name_english": "Litten"
+  },
+  {
+    "pokemon_species_id": 726,
+    "name_german": "Miezunder",
+    "name_english": "Torracat"
+  },
+  {
+    "pokemon_species_id": 727,
+    "name_german": "Fuegro",
+    "name_english": "Incineroar"
+  },
+  {
+    "pokemon_species_id": 728,
+    "name_german": "Robball",
+    "name_english": "Popplio"
+  },
+  {
+    "pokemon_species_id": 729,
+    "name_german": "Marikeck",
+    "name_english": "Brionne"
+  },
+  {
+    "pokemon_species_id": 730,
+    "name_german": "Primarene",
+    "name_english": "Primarina"
+  },
+  {
+    "pokemon_species_id": 731,
+    "name_german": "Peppeck",
+    "name_english": "Pikipek"
+  },
+  {
+    "pokemon_species_id": 732,
+    "name_german": "Trompeck",
+    "name_english": "Trumbeak"
+  },
+  {
+    "pokemon_species_id": 733,
+    "name_german": "Tukanon",
+    "name_english": "Toucannon"
+  },
+  {
+    "pokemon_species_id": 734,
+    "name_german": "Mangunior",
+    "name_english": "Yungoos"
+  },
+  {
+    "pokemon_species_id": 735,
+    "name_german": "Manguspektor",
+    "name_english": "Gumshoos"
+  },
+  {
+    "pokemon_species_id": 736,
+    "name_german": "Mabula",
+    "name_english": "Grubbin"
+  },
+  {
+    "pokemon_species_id": 737,
+    "name_german": "Akkup",
+    "name_english": "Charjabug"
+  },
+  {
+    "pokemon_species_id": 738,
+    "name_german": "Donarion",
+    "name_english": "Vikavolt"
+  },
+  {
+    "pokemon_species_id": 739,
+    "name_german": "Krabbox",
+    "name_english": "Crabrawler"
+  },
+  {
+    "pokemon_species_id": 740,
+    "name_german": "Krawell",
+    "name_english": "Crabominable"
+  },
+  {
+    "pokemon_species_id": 741,
+    "name_german": "Choreogel",
+    "name_english": "Oricorio"
+  },
+  {
+    "pokemon_species_id": 742,
+    "name_german": "Wommel",
+    "name_english": "Cutiefly"
+  },
+  {
+    "pokemon_species_id": 743,
+    "name_german": "Bandelby",
+    "name_english": "Ribombee"
+  },
+  {
+    "pokemon_species_id": 744,
+    "name_german": "Wuffels",
+    "name_english": "Rockruff"
+  },
+  {
+    "pokemon_species_id": 745,
+    "name_german": "Wolwerock",
+    "name_english": "Lycanroc"
+  },
+  {
+    "pokemon_species_id": 746,
+    "name_german": "Lusardin",
+    "name_english": "Wishiwashi"
+  },
+  {
+    "pokemon_species_id": 747,
+    "name_german": "Garstella",
+    "name_english": "Mareanie"
+  },
+  {
+    "pokemon_species_id": 748,
+    "name_german": "Aggrostella",
+    "name_english": "Toxapex"
+  },
+  {
+    "pokemon_species_id": 749,
+    "name_german": "Pampuli",
+    "name_english": "Mudbray"
+  },
+  {
+    "pokemon_species_id": 750,
+    "name_german": "Pampross",
+    "name_english": "Mudsdale"
+  },
+  {
+    "pokemon_species_id": 751,
+    "name_german": "Araqua",
+    "name_english": "Dewpider"
+  },
+  {
+    "pokemon_species_id": 752,
+    "name_german": "Aranestro",
+    "name_english": "Araquanid"
+  },
+  {
+    "pokemon_species_id": 753,
+    "name_german": "Imantis",
+    "name_english": "Fomantis"
+  },
+  {
+    "pokemon_species_id": 754,
+    "name_german": "Mantidea",
+    "name_english": "Lurantis"
+  },
+  {
+    "pokemon_species_id": 755,
+    "name_german": "Bubungus",
+    "name_english": "Morelull"
+  },
+  {
+    "pokemon_species_id": 756,
+    "name_german": "Lamellux",
+    "name_english": "Shiinotic"
+  },
+  {
+    "pokemon_species_id": 757,
+    "name_german": "Molunk",
+    "name_english": "Salandit"
+  },
+  {
+    "pokemon_species_id": 758,
+    "name_german": "Amfira",
+    "name_english": "Salazzle"
+  },
+  {
+    "pokemon_species_id": 759,
+    "name_german": "Velursi",
+    "name_english": "Stufful"
+  },
+  {
+    "pokemon_species_id": 760,
+    "name_german": "Kosturso",
+    "name_english": "Bewear"
+  },
+  {
+    "pokemon_species_id": 761,
+    "name_german": "Frubberl",
+    "name_english": "Bounsweet"
+  },
+  {
+    "pokemon_species_id": 762,
+    "name_german": "Frubaila",
+    "name_english": "Steenee"
+  },
+  {
+    "pokemon_species_id": 763,
+    "name_german": "Fruyal",
+    "name_english": "Tsareena"
+  },
+  {
+    "pokemon_species_id": 764,
+    "name_german": "Curelei",
+    "name_english": "Comfey"
+  },
+  {
+    "pokemon_species_id": 765,
+    "name_german": "Kommandutan",
+    "name_english": "Oranguru"
+  },
+  {
+    "pokemon_species_id": 766,
+    "name_german": "Quartermak",
+    "name_english": "Passimian"
+  },
+  {
+    "pokemon_species_id": 767,
+    "name_german": "Reißlaus",
+    "name_english": "Wimpod"
+  },
+  {
+    "pokemon_species_id": 768,
+    "name_german": "Tectass",
+    "name_english": "Golisopod"
+  },
+  {
+    "pokemon_species_id": 769,
+    "name_german": "Sankabuh",
+    "name_english": "Sandygast"
+  },
+  {
+    "pokemon_species_id": 770,
+    "name_german": "Colossand",
+    "name_english": "Palossand"
+  },
+  {
+    "pokemon_species_id": 771,
+    "name_german": "Gufa",
+    "name_english": "Pyukumuku"
+  },
+  {
+    "pokemon_species_id": 772,
+    "name_german": "Typ:Null",
+    "name_english": "Type: Null"
+  },
+  {
+    "pokemon_species_id": 773,
+    "name_german": "Amigento",
+    "name_english": "Silvally"
+  },
+  {
+    "pokemon_species_id": 774,
+    "name_german": "Meteno",
+    "name_english": "Minior"
+  },
+  {
+    "pokemon_species_id": 775,
+    "name_german": "Koalelu",
+    "name_english": "Komala"
+  },
+  {
+    "pokemon_species_id": 776,
+    "name_german": "Tortunator",
+    "name_english": "Turtonator"
+  },
+  {
+    "pokemon_species_id": 777,
+    "name_german": "Togedemaru",
+    "name_english": "Togedemaru"
+  },
+  {
+    "pokemon_species_id": 778,
+    "name_german": "Mimigma",
+    "name_english": "Mimikyu"
+  },
+  {
+    "pokemon_species_id": 779,
+    "name_german": "Knirfish",
+    "name_english": "Bruxish"
+  },
+  {
+    "pokemon_species_id": 780,
+    "name_german": "Sen-Long",
+    "name_english": "Drampa"
+  },
+  {
+    "pokemon_species_id": 781,
+    "name_german": "Moruda",
+    "name_english": "Dhelmise"
+  },
+  {
+    "pokemon_species_id": 782,
+    "name_german": "Miniras",
+    "name_english": "Jangmo-o"
+  },
+  {
+    "pokemon_species_id": 783,
+    "name_german": "Mediras",
+    "name_english": "Hakamo-o"
+  },
+  {
+    "pokemon_species_id": 784,
+    "name_german": "Grandiras",
+    "name_english": "Kommo-o"
+  },
+  {
+    "pokemon_species_id": 785,
+    "name_german": "Kapu-Riki",
+    "name_english": "Tapu Koko"
+  },
+  {
+    "pokemon_species_id": 786,
+    "name_german": "Kapu-Fala",
+    "name_english": "Tapu Lele"
+  },
+  {
+    "pokemon_species_id": 787,
+    "name_german": "Kapu-Toro",
+    "name_english": "Tapu Bulu"
+  },
+  {
+    "pokemon_species_id": 788,
+    "name_german": "Kapu-Kime",
+    "name_english": "Tapu Fini"
+  },
+  {
+    "pokemon_species_id": 789,
+    "name_german": "Cosmog",
+    "name_english": "Cosmog"
+  },
+  {
+    "pokemon_species_id": 790,
+    "name_german": "Cosmovum",
+    "name_english": "Cosmoem"
+  },
+  {
+    "pokemon_species_id": 791,
+    "name_german": "Solgaleo",
+    "name_english": "Solgaleo"
+  },
+  {
+    "pokemon_species_id": 792,
+    "name_german": "Lunala",
+    "name_english": "Lunala"
+  },
+  {
+    "pokemon_species_id": 793,
+    "name_german": "Anego",
+    "name_english": "Nihilego"
+  },
+  {
+    "pokemon_species_id": 794,
+    "name_german": "Masskito",
+    "name_english": "Buzzwole"
+  },
+  {
+    "pokemon_species_id": 795,
+    "name_german": "Schabelle",
+    "name_english": "Pheromosa"
+  },
+  {
+    "pokemon_species_id": 796,
+    "name_german": "Voltriant",
+    "name_english": "Xurkitree"
+  },
+  {
+    "pokemon_species_id": 797,
+    "name_german": "Kaguron",
+    "name_english": "Celesteela"
+  },
+  {
+    "pokemon_species_id": 798,
+    "name_german": "Katagami",
+    "name_english": "Kartana"
+  },
+  {
+    "pokemon_species_id": 799,
+    "name_german": "Schlingking",
+    "name_english": "Guzzlord"
+  },
+  {
+    "pokemon_species_id": 800,
+    "name_german": "Necrozma",
+    "name_english": "Necrozma"
+  },
+  {
+    "pokemon_species_id": 801,
+    "name_german": "Magearna",
+    "name_english": "Magearna"
+  },
+  {
+    "pokemon_species_id": 802,
+    "name_german": "Marshadow",
+    "name_english": "Marshadow"
+  },
+  {
+    "pokemon_species_id": 803,
+    "name_german": "Venicro",
+    "name_english": "Poipole"
+  },
+  {
+    "pokemon_species_id": 804,
+    "name_german": "Agoyon",
+    "name_english": "Naganadel"
+  },
+  {
+    "pokemon_species_id": 805,
+    "name_german": "Muramura",
+    "name_english": "Stakataka"
+  },
+  {
+    "pokemon_species_id": 806,
+    "name_german": "Kopplosio",
+    "name_english": "Blacephalon"
+  },
+  {
+    "pokemon_species_id": 807,
+    "name_german": "Zeraora",
+    "name_english": "Zeraora"
+  },
+  {
+    "pokemon_species_id": 808,
+    "name_german": "Meltan",
+    "name_english": "Meltan"
+  },
+  {
+    "pokemon_species_id": 809,
+    "name_german": "Melmetal",
+    "name_english": "Melmetal"
+  },
+  {
+    "pokemon_species_id": 810,
+    "name_german": "Chimpep",
+    "name_english": "Grookey"
+  },
+  {
+    "pokemon_species_id": 811,
+    "name_german": "Chimstix",
+    "name_english": "Thwackey"
+  },
+  {
+    "pokemon_species_id": 812,
+    "name_german": "Gortrom",
+    "name_english": "Rillaboom"
+  },
+  {
+    "pokemon_species_id": 813,
+    "name_german": "Hopplo",
+    "name_english": "Scorbunny"
+  },
+  {
+    "pokemon_species_id": 814,
+    "name_german": "Kickerlo",
+    "name_english": "Raboot"
+  },
+  {
+    "pokemon_species_id": 815,
+    "name_german": "Liberlo",
+    "name_english": "Cinderace"
+  },
+  {
+    "pokemon_species_id": 816,
+    "name_german": "Memmeon",
+    "name_english": "Sobble"
+  },
+  {
+    "pokemon_species_id": 817,
+    "name_german": "Phlegleon",
+    "name_english": "Drizzile"
+  },
+  {
+    "pokemon_species_id": 818,
+    "name_german": "Intelleon",
+    "name_english": "Inteleon"
+  },
+  {
+    "pokemon_species_id": 819,
+    "name_german": "Raffel",
+    "name_english": "Skwovet"
+  },
+  {
+    "pokemon_species_id": 820,
+    "name_german": "Schlaraffel",
+    "name_english": "Greedent"
+  },
+  {
+    "pokemon_species_id": 821,
+    "name_german": "Meikro",
+    "name_english": "Rookidee"
+  },
+  {
+    "pokemon_species_id": 822,
+    "name_german": "Kranoviz",
+    "name_english": "Corvisquire"
+  },
+  {
+    "pokemon_species_id": 823,
+    "name_german": "Krarmor",
+    "name_english": "Corviknight"
+  },
+  {
+    "pokemon_species_id": 824,
+    "name_german": "Sensect",
+    "name_english": "Blipbug"
+  },
+  {
+    "pokemon_species_id": 825,
+    "name_german": "Keradar",
+    "name_english": "Dottler"
+  },
+  {
+    "pokemon_species_id": 826,
+    "name_german": "Maritellit",
+    "name_english": "Orbeetle"
+  },
+  {
+    "pokemon_species_id": 827,
+    "name_german": "Kleptifux",
+    "name_english": "Nickit"
+  },
+  {
+    "pokemon_species_id": 828,
+    "name_german": "Gaunux",
+    "name_english": "Thievul"
+  },
+  {
+    "pokemon_species_id": 829,
+    "name_german": "Cottini",
+    "name_english": "Gossifleur"
+  },
+  {
+    "pokemon_species_id": 830,
+    "name_german": "Cottomi",
+    "name_english": "Eldegoss"
+  },
+  {
+    "pokemon_species_id": 831,
+    "name_german": "Wolly",
+    "name_english": "Wooloo"
+  },
+  {
+    "pokemon_species_id": 832,
+    "name_german": "Zwollock",
+    "name_english": "Dubwool"
+  },
+  {
+    "pokemon_species_id": 833,
+    "name_german": "Kamehaps",
+    "name_english": "Chewtle"
+  },
+  {
+    "pokemon_species_id": 834,
+    "name_german": "Kamalm",
+    "name_english": "Drednaw"
+  },
+  {
+    "pokemon_species_id": 835,
+    "name_german": "Voldi",
+    "name_english": "Yamper"
+  },
+  {
+    "pokemon_species_id": 836,
+    "name_german": "Bellektro",
+    "name_english": "Boltund"
+  },
+  {
+    "pokemon_species_id": 837,
+    "name_german": "Klonkett",
+    "name_english": "Rolycoly"
+  },
+  {
+    "pokemon_species_id": 838,
+    "name_german": "Wagong",
+    "name_english": "Carkol"
+  },
+  {
+    "pokemon_species_id": 839,
+    "name_german": "Montecarbo",
+    "name_english": "Coalossal"
+  },
+  {
+    "pokemon_species_id": 840,
+    "name_german": "Knapfel",
+    "name_english": "Applin"
+  },
+  {
+    "pokemon_species_id": 841,
+    "name_german": "Drapfel",
+    "name_english": "Flapple"
+  },
+  {
+    "pokemon_species_id": 842,
+    "name_german": "Schlapfel",
+    "name_english": "Appletun"
+  },
+  {
+    "pokemon_species_id": 843,
+    "name_german": "Salanga",
+    "name_english": "Silicobra"
+  },
+  {
+    "pokemon_species_id": 844,
+    "name_german": "Sanaconda",
+    "name_english": "Sandaconda"
+  },
+  {
+    "pokemon_species_id": 845,
+    "name_german": "Urgl",
+    "name_english": "Cramorant"
+  },
+  {
+    "pokemon_species_id": 846,
+    "name_german": "Pikuda",
+    "name_english": "Arrokuda"
+  },
+  {
+    "pokemon_species_id": 847,
+    "name_german": "Barrakiefa",
+    "name_english": "Barraskewda"
+  },
+  {
+    "pokemon_species_id": 848,
+    "name_german": "Toxel",
+    "name_english": "Toxel"
+  },
+  {
+    "pokemon_species_id": 849,
+    "name_german": "Riffex",
+    "name_english": "Toxtricity"
+  },
+  {
+    "pokemon_species_id": 850,
+    "name_german": "Thermopod",
+    "name_english": "Sizzlipede"
+  },
+  {
+    "pokemon_species_id": 851,
+    "name_german": "Infernopod",
+    "name_english": "Centiskorch"
+  },
+  {
+    "pokemon_species_id": 852,
+    "name_german": "Klopptopus",
+    "name_english": "Clobbopus"
+  },
+  {
+    "pokemon_species_id": 853,
+    "name_german": "Kaocto",
+    "name_english": "Grapploct"
+  },
+  {
+    "pokemon_species_id": 854,
+    "name_german": "Fatalitee",
+    "name_english": "Sinistea"
+  },
+  {
+    "pokemon_species_id": 855,
+    "name_german": "Mortipot",
+    "name_english": "Polteageist"
+  },
+  {
+    "pokemon_species_id": 856,
+    "name_german": "Brimova",
+    "name_english": "Hatenna"
+  },
+  {
+    "pokemon_species_id": 857,
+    "name_german": "Brimano",
+    "name_english": "Hattrem"
+  },
+  {
+    "pokemon_species_id": 858,
+    "name_german": "Silembrim",
+    "name_english": "Hatterene"
+  },
+  {
+    "pokemon_species_id": 859,
+    "name_german": "Bähmon",
+    "name_english": "Impidimp"
+  },
+  {
+    "pokemon_species_id": 860,
+    "name_german": "Pelzebub",
+    "name_english": "Morgrem"
+  },
+  {
+    "pokemon_species_id": 861,
+    "name_german": "Olangaa",
+    "name_english": "Grimmsnarl"
+  },
+  {
+    "pokemon_species_id": 862,
+    "name_german": "Barrikadax",
+    "name_english": "Obstagoon"
+  },
+  {
+    "pokemon_species_id": 863,
+    "name_german": "Mauzinger",
+    "name_english": "Perrserker"
+  },
+  {
+    "pokemon_species_id": 864,
+    "name_german": "Gorgasonn",
+    "name_english": "Cursola"
+  },
+  {
+    "pokemon_species_id": 865,
+    "name_german": "Lauchzelot",
+    "name_english": "Sirfetch'd"
+  },
+  {
+    "pokemon_species_id": 866,
+    "name_german": "Pantifrost",
+    "name_english": "Mr. Rime"
+  },
+  {
+    "pokemon_species_id": 867,
+    "name_german": "Oghnatoll",
+    "name_english": "Runerigus"
+  },
+  {
+    "pokemon_species_id": 868,
+    "name_german": "Hokumil",
+    "name_english": "Milcery"
+  },
+  {
+    "pokemon_species_id": 869,
+    "name_german": "Pokusan",
+    "name_english": "Alcremie"
+  },
+  {
+    "pokemon_species_id": 870,
+    "name_german": "Legios",
+    "name_english": "Falinks"
+  },
+  {
+    "pokemon_species_id": 871,
+    "name_german": "Britzigel",
+    "name_english": "Pincurchin"
+  },
+  {
+    "pokemon_species_id": 872,
+    "name_german": "Snomnom",
+    "name_english": "Snom"
+  },
+  {
+    "pokemon_species_id": 873,
+    "name_german": "Mottineva",
+    "name_english": "Frosmoth"
+  },
+  {
+    "pokemon_species_id": 874,
+    "name_german": "Humanolith",
+    "name_english": "Stonjourner"
+  },
+  {
+    "pokemon_species_id": 875,
+    "name_german": "Kubuin",
+    "name_english": "Eiscue"
+  },
+  {
+    "pokemon_species_id": 876,
+    "name_german": "Servol",
+    "name_english": "Indeedee"
+  },
+  {
+    "pokemon_species_id": 877,
+    "name_german": "Morpeko",
+    "name_english": "Morpeko"
+  },
+  {
+    "pokemon_species_id": 878,
+    "name_german": "Kupfanti",
+    "name_english": "Cufant"
+  },
+  {
+    "pokemon_species_id": 879,
+    "name_german": "Patinaraja",
+    "name_english": "Copperajah"
+  },
+  {
+    "pokemon_species_id": 880,
+    "name_german": "Lectragon",
+    "name_english": "Dracozolt"
+  },
+  {
+    "pokemon_species_id": 881,
+    "name_german": "Lecryodon",
+    "name_english": "Arctozolt"
+  },
+  {
+    "pokemon_species_id": 882,
+    "name_german": "Pescragon",
+    "name_english": "Dracovish"
+  },
+  {
+    "pokemon_species_id": 883,
+    "name_german": "Pescryodon",
+    "name_english": "Arctovish"
+  },
+  {
+    "pokemon_species_id": 884,
+    "name_german": "Duraludon",
+    "name_english": "Duraludon"
+  },
+  {
+    "pokemon_species_id": 885,
+    "name_german": "Grolldra",
+    "name_english": "Dreepy"
+  },
+  {
+    "pokemon_species_id": 886,
+    "name_german": "Phandra",
+    "name_english": "Drakloak"
+  },
+  {
+    "pokemon_species_id": 887,
+    "name_german": "Katapuldra",
+    "name_english": "Dragapult"
+  },
+  {
+    "pokemon_species_id": 888,
+    "name_german": "Zacian",
+    "name_english": "Zacian"
+  },
+  {
+    "pokemon_species_id": 889,
+    "name_german": "Zamazenta",
+    "name_english": "Zamazenta"
+  },
+  {
+    "pokemon_species_id": 890,
+    "name_german": "Endynalos",
+    "name_english": "Eternatus"
+  },
+  {
+    "pokemon_species_id": 891,
+    "name_german": "Dakuma",
+    "name_english": "Kubfu"
+  },
+  {
+    "pokemon_species_id": 892,
+    "name_german": "Wulaosu",
+    "name_english": "Urshifu"
+  },
+  {
+    "pokemon_species_id": 893,
+    "name_german": "Zarude",
+    "name_english": "Zarude"
+  },
+  {
+    "pokemon_species_id": 894,
+    "name_german": "Regieleki",
+    "name_english": "Regieleki"
+  },
+  {
+    "pokemon_species_id": 895,
+    "name_german": "Regidrago",
+    "name_english": "Regidrago"
+  },
+  {
+    "pokemon_species_id": 896,
+    "name_german": "Polaross",
+    "name_english": "Glastrier"
+  },
+  {
+    "pokemon_species_id": 897,
+    "name_german": "Phantoross",
+    "name_english": "Spectrier"
+  },
+  {
+    "pokemon_species_id": 898,
+    "name_german": "Coronospa",
+    "name_english": "Calyrex"
+  }
+]
