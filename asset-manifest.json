@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pokemonTranslator/static/css/main.fcd29914.chunk.css",
+    "main.js": "/pokemonTranslator/static/js/main.77eee561.chunk.js",
+    "main.js.map": "/pokemonTranslator/static/js/main.77eee561.chunk.js.map",
+    "runtime-main.js": "/pokemonTranslator/static/js/runtime-main.de150221.js",
+    "runtime-main.js.map": "/pokemonTranslator/static/js/runtime-main.de150221.js.map",
+    "static/js/2.f14d8b65.chunk.js": "/pokemonTranslator/static/js/2.f14d8b65.chunk.js",
+    "static/js/2.f14d8b65.chunk.js.map": "/pokemonTranslator/static/js/2.f14d8b65.chunk.js.map",
+    "static/js/3.7f5e1005.chunk.js": "/pokemonTranslator/static/js/3.7f5e1005.chunk.js",
+    "static/js/3.7f5e1005.chunk.js.map": "/pokemonTranslator/static/js/3.7f5e1005.chunk.js.map",
+    "index.html": "/pokemonTranslator/index.html",
+    "static/css/main.fcd29914.chunk.css.map": "/pokemonTranslator/static/css/main.fcd29914.chunk.css.map",
+    "static/js/2.f14d8b65.chunk.js.LICENSE.txt": "/pokemonTranslator/static/js/2.f14d8b65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de150221.js",
+    "static/js/2.f14d8b65.chunk.js",
+    "static/css/main.fcd29914.chunk.css",
+    "static/js/main.77eee561.chunk.js"
+  ]
+}
