@@ -31,7 +31,7 @@ function App() {
     }
 
     useEffect(() => {
-
+      document.title = 'pokemon translator'
      // setPokes(poke)
     },[])
     
